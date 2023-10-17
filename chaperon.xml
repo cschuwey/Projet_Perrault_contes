@@ -1,0 +1,2331 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author/>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+               <p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <p><app>
+<rdg wit="#A">Le petit chaperon rouge</rdg>
+<lem>Le petit chaperon rouge</lem>
+<rdg wit="#C">The Little red Riding-Hood</rdg>
+<rdg wit="#D">Little Red Riding-Hood</rdg>
+<rdg wit="#E">Pretty miss red-cap</rdg>
+<rdg wit="#F">Little Red Riding-Hood</rdg>
+<rdg wit="#G">Little Red Riding-Hood</rdg>
+<rdg wit="#H">Little Red Riding Hood</rdg>
+<rdg wit="#I">Little Red Riding-Hood</rdg>
+<rdg wit="#J">Little Red Riding-Hood</rdg>
+<rdg wit="#K">Little Red Riding Hood</rdg>
+<rdg wit="#L">Little Red Riding Hood</rdg>
+<rdg wit="#M">Little Red Hood</rdg>
+<rdg wit="#N">Little Red Riding-Hood meets Master Wolf</rdg>
+<rdg wit="#O">The Little Red Tippet</rdg>
+<rdg wit="#P">Little Red Riding Hood</rdg>
+<rdg wit="#Q">The little red hood</rdg>
+</app><app>
+<rdg wit="#A">Conte</rdg>
+<lem>Conte</lem>
+<rdg wit="#C">--</rdg>
+<rdg wit="#D">Tale I</rdg>
+<rdg wit="#E">--</rdg>
+<rdg wit="#F">--</rdg>
+<rdg wit="#G">--</rdg>
+<rdg wit="#H">--</rdg>
+<rdg wit="#I">--</rdg>
+<rdg wit="#J">--</rdg>
+<rdg wit="#K">--</rdg>
+<rdg wit="#L">--</rdg>
+<rdg wit="#M">[Little Red Riding Hood]</rdg>
+<rdg wit="#N">Little Red Riding-Hood</rdg>
+<rdg wit="#O">--</rdg>
+<rdg wit="#P">--</rdg>
+<rdg wit="#Q">Tale</rdg>
+</app><app>
+<rdg wit="#A">Il était une fois une petite fille de Village</rdg>
+<lem>"Il était une fois une petite fille de Village,"</lem>
+<rdg wit="#C">"There was once upon a time a little country girl, born in a village,"</rdg>
+<rdg wit="#D">"Once upon a time there lived in a certain village, a little country girl,"</rdg>
+<rdg wit="#E">"In former times there was a Young Country Girl,"</rdg>
+<rdg wit="#F">"Once upon a time there lived in a certain village a little country girl,"</rdg>
+<rdg wit="#G">"Once upon a time there lived in a certain village a little country girl,"</rdg>
+<rdg wit="#H">"Once upon a time there was a little village girl,"</rdg>
+<rdg wit="#I">"Once upon a time, there lived in a certain village, a little country girl,"</rdg>
+<rdg wit="#J">"Once upon a time there was a little girl,"</rdg>
+<rdg wit="#K">"Once upon a time there was a little village girl,"</rdg>
+<rdg wit="#L">"There was once a little village girl,"</rdg>
+<rdg wit="#M">"There was once a little village girl,"</rdg>
+<rdg wit="#N">"Once upon a time, in a village, there lived a little girl,"</rdg>
+<rdg wit="#O">"Once upon a time there was a young country girl,"</rdg>
+<rdg wit="#P">"Once upon a time there was a village girl,"</rdg>
+<rdg wit="#Q">"There was once a little Village girl,"</rdg>
+</app><app>
+<rdg wit="#A">la plus jolie qu’on eût su voir :</rdg>
+<lem>la plus jolie qu'on eût su voir ;</lem>
+<rdg wit="#C">the prettiest little creature that ever was seen.</rdg>
+<rdg wit="#D">the prettiest creature ever was seen.</rdg>
+<rdg wit="#E">so very pretty that none could be more.</rdg>
+<rdg wit="#F">the prettiest creature was ever seen.</rdg>
+<rdg wit="#G">the prettiest creature that ever was seen.</rdg>
+<rdg wit="#H">the prettiest that had ever been seen.</rdg>
+<rdg wit="#I">the prettiest creature was ever seen.</rdg>
+<rdg wit="#J">the prettiest you could hope to see.</rdg>
+<rdg wit="#K">the prettiest in the world.</rdg>
+<rdg wit="#L">the prettiest you ever saw.</rdg>
+<rdg wit="#M">the prettiest you could get to see;</rdg>
+<rdg wit="#N">the prettiest you could wish to see.</rdg>
+<rdg wit="#O">the prettiest you ever did see.</rdg>
+<rdg wit="#P">the prettiest you can imagine.</rdg>
+<rdg wit="#Q">the loveliest one could have seen.</rdg>
+</app><app>
+<rdg wit="#A">"sa mère en était folle,"</rdg>
+<lem>"sa mère en était folle,"</lem>
+<rdg wit="#C">"Her mother was beyond reason excessively fond of her,"</rdg>
+<rdg wit="#D">Her mother was excessively fond of her;</rdg>
+<rdg wit="#E">"She was the darling of her Mama,"</rdg>
+<rdg wit="#F">Her mother was excessively fond of her;</rdg>
+<rdg wit="#G">"Her mother was very fond of her,"</rdg>
+<rdg wit="#H">Her mother doted on her.</rdg>
+<rdg wit="#I">Her mother was excessively fond of her;</rdg>
+<rdg wit="#J">Her mother doted on her</rdg>
+<rdg wit="#K">"Her mother doted on her,"</rdg>
+<rdg wit="#L">Her mother doted on her</rdg>
+<rdg wit="#M">"her mother doted on her,"</rdg>
+<rdg wit="#N">"Her mother adored her,"</rdg>
+<rdg wit="#O">Her mother was crazy about her</rdg>
+<rdg wit="#P">Her mother adored her.</rdg>
+<rdg wit="#Q">"Her mother was crazy about her,"</rdg>
+</app><app>
+<rdg wit="#A">et sa mère grand plus folle encore.</rdg>
+<lem>et sa mère grand plus folle encore.</lem>
+<rdg wit="#C">and her grandmother yet much more.</rdg>
+<rdg wit="#D">and her grand-mother doated on her much more.</rdg>
+<rdg wit="#E">& her Granny doted on her.</rdg>
+<rdg wit="#F">and her grandmother doted on her still more.</rdg>
+<rdg wit="#G">and her grandmother loved her still more.</rdg>
+<rdg wit="#H">"Her grandmother was even fonder,"</rdg>
+<rdg wit="#I">and her grand-mother doated on her much more.</rdg>
+<rdg wit="#J">and her grandmother was even more fond of her.</rdg>
+<rdg wit="#K">and her grandmother even more.</rdg>
+<rdg wit="#L">and her grandmother even more so.</rdg>
+<rdg wit="#M">and her grandmother even more so.</rdg>
+<rdg wit="#N">and her grandmother adored her even more.</rdg>
+<rdg wit="#O">and her grandmother crazier still.</rdg>
+<rdg wit="#P">Her grandmother adored her even more</rdg>
+<rdg wit="#Q">and her granny even crazier.</rdg>
+</app><app>
+<rdg wit="#A">Cette bonne femme lui fit faire un petit chaperon rouge</rdg>
+<lem>"Cette bonne femme lui fit faire un petit chaperon rouge,"</lem>
+<rdg wit="#C">This good woman caused to be made for her a little red Riding-Hood;</rdg>
+<rdg wit="#D">This good woman got made for her a little red Riding-Hood;</rdg>
+<rdg wit="#E">"The fond old Woman gave her a Red-Cap, for her wearing, when she went out of doors,"</rdg>
+<rdg wit="#F">This good woman had made for her a little red riding-hood;</rdg>
+<rdg wit="#G">"This good woman made for her a little red riding-hood,"</rdg>
+<rdg wit="#H">"and made her a little red hood,"</rdg>
+<rdg wit="#I">This good woman got made for her a little red riding-hood;</rdg>
+<rdg wit="#J">"The kind old woman had a little red hood made for her,"</rdg>
+<rdg wit="#K">This good woman made her a little red hood</rdg>
+<rdg wit="#L">"This good lady had a little red cloak made for her,"</rdg>
+<rdg wit="#M">That good woman had a little red hood made for her</rdg>
+<rdg wit="#N">"This kind lady had a riding-hood made for her granddaughter; it was red,"</rdg>
+<rdg wit="#O">The older woman had made-to-fit for her a tufted red bonnet and tippet.</rdg>
+<rdg wit="#P">and made a little red hood for her.</rdg>
+<rdg wit="#Q">This good woman had a little red hood made for her.</rdg>
+</app><app>
+<rdg wit="#A">qui lui seyait si bien</rdg>
+<lem>qui lui seyait si bien</lem>
+<rdg wit="#C">"which made her look so very pretty,"</rdg>
+<rdg wit="#D">"which became the girl so extremely well,"</rdg>
+<rdg wit="#E">& that Dress became her so well</rdg>
+<rdg wit="#F">which became the girl so extremely well</rdg>
+<rdg wit="#G">which became the girl so well</rdg>
+<rdg wit="#H">which became her so well</rdg>
+<rdg wit="#I">"which became the girl so extremely well,"</rdg>
+<rdg wit="#J">which suited her so well</rdg>
+<rdg wit="#K">which suited her so well</rdg>
+<rdg wit="#L">which suited her so well</rdg>
+<rdg wit="#M">which was so becoming to her</rdg>
+<rdg wit="#N">and it suited her so well</rdg>
+<rdg wit="#O">It suited her so well</rdg>
+<rdg wit="#P">The hood suited the child so much</rdg>
+<rdg wit="#Q">It suited her so well</rdg>
+</app><app>
+<rdg wit="#A">que partout on l'appelait le Petit chaperon rouge.</rdg>
+<lem>que partout on l'appelait le Petit chaperon rouge.</lem>
+<rdg wit="#C">"that every body call’d her, The little red Riding-Hood."</rdg>
+<rdg wit="#D">that every body called her Little Red Riding-Hood.</rdg>
+<rdg wit="#E">"that every body took notice of it, & called her, Pretty Miss Red-Cap."</rdg>
+<rdg wit="#F">that everybody called her Little Red Riding-Hood.</rdg>
+<rdg wit="#G">that everybody called her Little Red Riding-hood.</rdg>
+<rdg wit="#H">that everywhere she went by the name of Little Red Riding Hood.</rdg>
+<rdg wit="#I">that every body called her Little Red Riding-Hood.</rdg>
+<rdg wit="#J">that everyone called her Little Red Riding-Hood.</rdg>
+<rdg wit="#K">"that wherever she went, she was called Little Red Riding Hood."</rdg>
+<rdg wit="#L">that everyone called her Little Red Riding Hood.</rdg>
+<rdg wit="#M">that she was universally called Little Red Hood.</rdg>
+<rdg wit="#N">that everywhere she went she was called Little Red Riding-Hood.</rdg>
+<rdg wit="#O">that everyone called her the little red tippet.</rdg>
+<rdg wit="#P">that everywhere she went she was known by the name Little Red Riding Hood.</rdg>
+<rdg wit="#Q">that everywhere people called her the Little red hood.</rdg>
+</app><app>
+<rdg wit="#A">"Un jour sa mère ayant cuit et fait des galettes,"</rdg>
+<lem>"Un jour sa mère ayant cuit et fait des galettes,"</lem>
+<rdg wit="#C">"One day, her mother having made some custards,"</rdg>
+<rdg wit="#D">"One day, her mother, having made some custards,"</rdg>
+<rdg wit="#E">"Once the Mother having baked a few Cakes,"</rdg>
+<rdg wit="#F">"One day her mother, having made some custards,"</rdg>
+<rdg wit="#G">"One day her mother, having made some custards,"</rdg>
+<rdg wit="#H">"One day her mother, who had just made and baked some cakes,"</rdg>
+<rdg wit="#I">"One day, her mother, having made some girdle-cakes,"</rdg>
+<rdg wit="#J">One day her mother baked some cakes</rdg>
+<rdg wit="#K">"One day, after her mother had baked some biscuits,"</rdg>
+<rdg wit="#L">One day her mother made some bread</rdg>
+<rdg wit="#M">"One day, her mother having baked and made some round, flat biscuits,"</rdg>
+<rdg wit="#N">"One day, when her mother had done some baking, she made some buns,"</rdg>
+<rdg wit="#O">"One day after baking and making galettes,"</rdg>
+<rdg wit="#P">"One day, her mother baked some cakes"</rdg>
+<rdg wit="#Q">"One day her mother, having baked bread and made flat cakes,"</rdg>
+</app><app>
+<rdg wit="#A">lui dit</rdg>
+<lem>"lui dit,"</lem>
+<rdg wit="#C">"said to her,"</rdg>
+<rdg wit="#D">"said to her,"</rdg>
+<rdg wit="#E">"gave one of em, in a little basket, with a pot of Butter, to Pretty Miss Red Cap, & told her"</rdg>
+<rdg wit="#F">said to her:</rdg>
+<rdg wit="#G">said to her: —</rdg>
+<rdg wit="#H">said to her:</rdg>
+<rdg wit="#I">said to her:</rdg>
+<rdg wit="#J">and said to her:</rdg>
+<rdg wit="#K">"she said to Little Red Riding Hood,"</rdg>
+<rdg wit="#L">"and said to her,"</rdg>
+<rdg wit="#M">said to her:</rdg>
+<rdg wit="#N">and said:</rdg>
+<rdg wit="#O">"her mother told her,"</rdg>
+<rdg wit="#P">and said to her:</rdg>
+<rdg wit="#Q">told her:</rdg>
+</app><app>
+<rdg wit="#A">--</rdg>
+<lem>--</lem>
+<rdg wit="#C">"""Go my little Biddy, for her Christian name was Biddy,"</rdg>
+<rdg wit="#D">--</rdg>
+<rdg wit="#E">--</rdg>
+<rdg wit="#F">--</rdg>
+<rdg wit="#G">--</rdg>
+<rdg wit="#H">--</rdg>
+<rdg wit="#I">--</rdg>
+<rdg wit="#J">--</rdg>
+<rdg wit="#K">--</rdg>
+<rdg wit="#L">--</rdg>
+<rdg wit="#M">--</rdg>
+<rdg wit="#N">--</rdg>
+<rdg wit="#O">--</rdg>
+<rdg wit="#P">--</rdg>
+<rdg wit="#Q">--</rdg>
+</app><app>
+<rdg wit="#A">"va voir comment se porte ta mère grand,"</rdg>
+<lem>"va voir comme se porte ta mère-grand,"</lem>
+<rdg wit="#C">"go and see how your grandmother does,"</rdg>
+<rdg wit="#D">"Go, my dear, and see how thy grand-mamma does,"</rdg>
+<rdg wit="#E">"go, my dearest, & carry this to your Grany;"</rdg>
+<rdg wit="#F">"""Go, my dear, and see how thy grandmamma does,"</rdg>
+<rdg wit="#G">"""Go, my dear, and see how your grandmother does,"</rdg>
+<rdg wit="#H">"Go and see how your grandmother is,"</rdg>
+<rdg wit="#I">"""Go, my dear, and see how thy grand-mamma does,"</rdg>
+<rdg wit="#J">"Go and see how your grandmother is,"</rdg>
+<rdg wit="#K">"""Go see how your grandmother's feeling."</rdg>
+<rdg wit="#L">"""Go and see how your grandmother is,"</rdg>
+<rdg wit="#M">"""Go see how your grandmother is feeling,"</rdg>
+<rdg wit="#N">"‘Go and see how your grandmama is,"</rdg>
+<rdg wit="#O">“I would like you to go see how your grandma is doing</rdg>
+<rdg wit="#P">"""I want you to go and see how your grandmother is faring,"</rdg>
+<rdg wit="#Q">"“Go see how your granny is feeling,"</rdg>
+</app><app>
+<rdg wit="#A">car on m’a dit qu’elle était malade</rdg>
+<lem>"car on m'a dit qu'elle était malade,"</lem>
+<rdg wit="#C">"for I hear she has been very ill,"</rdg>
+<rdg wit="#D">for I hear she has been very ill;</rdg>
+<rdg wit="#E">so j hear she is sick.</rdg>
+<rdg wit="#F">for I hear she has been very ill;</rdg>
+<rdg wit="#G">for I hear she has been very ill;</rdg>
+<rdg wit="#H">for I have been told that she is ill.</rdg>
+<rdg wit="#I">"for I hear she has been very ill,"</rdg>
+<rdg wit="#J">for I hear that she is ill.</rdg>
+<rdg wit="#K">I've heard that she's ill.</rdg>
+<rdg wit="#L">for I hear she's been ill.</rdg>
+<rdg wit="#M">because I've been told she was ill;</rdg>
+<rdg wit="#N">because I’ve heard she isn’t well.</rdg>
+<rdg wit="#O">because I heard she was sick.</rdg>
+<rdg wit="#P">for I've heard that she's ill.</rdg>
+<rdg wit="#Q">for I’ve been told that she was sick.</rdg>
+</app><app>
+<rdg wit="#A">porte lui une galette et ce petit pot de beurre.</rdg>
+<lem>porte lui une galette et ce petit pot de beurre.</lem>
+<rdg wit="#C">"carry her a custard, and this little pot of butter."""</rdg>
+<rdg wit="#D">"carry her a custard, and this little pot of butter."</rdg>
+<rdg wit="#E">--</rdg>
+<rdg wit="#F">"carry her a custard, and this little pot of butter."""</rdg>
+<rdg wit="#G">"carry her a custard and this little pot of butter."""</rdg>
+<rdg wit="#H">Take her a cake and this little pot of butter.'</rdg>
+<rdg wit="#I">"carry her a girdle-cake, and this little pot of butter."""</rdg>
+<rdg wit="#J">Take her a cake and this little pot of butter.'</rdg>
+<rdg wit="#K">"You can take her some biscuits and this small pot of butter."""</rdg>
+<rdg wit="#L">"Take her a loaf and this little pot of butter."""</rdg>
+<rdg wit="#M">"take her a biscuit and this little pot of butter."""</rdg>
+<rdg wit="#N">"Take her one of these buns, and a little pot of butter.'"</rdg>
+<rdg wit="#O">"Take her a galette and this small jar of butter."""</rdg>
+<rdg wit="#P">Take her some cakes and this little pot of butter.'</rdg>
+<rdg wit="#Q">"Take her a flat cake and this little jar of butter."""</rdg>
+</app><app>
+<rdg wit="#A">Le petit chaperon rouge partit aussitôt pour aller chez sa mère grand</rdg>
+<lem>"Le petit chaperon rouge partit aussitôt pour aller chez sa mère-grand,"</lem>
+<rdg wit="#C">"The little red Riding-Hood sets out immediately to go to her grandmother,"</rdg>
+<rdg wit="#D">"Little Red Riding-Hood sets out immediately to go to her grand-mother,"</rdg>
+<rdg wit="#E">Now you must know the good Woman lived in the next Country town.</rdg>
+<rdg wit="#F">"Little Red Riding-Hood set out immediately to go to her grandmother,"</rdg>
+<rdg wit="#G">"Little Red Riding-hood set out immediately to go to her grandmother's,"</rdg>
+<rdg wit="#H">"Little Red Riding Hood set off at once for the house of her grandmother,"</rdg>
+<rdg wit="#I">"Little Red Riding-Hood set out immediately to go to her grand-mother,"</rdg>
+<rdg wit="#J">"Little Red Riding-Hood set off at once to see her grandmother,"</rdg>
+<rdg wit="#K">"Little Red Riding Hood departed at once to visit her grandmother,"</rdg>
+<rdg wit="#L">"Little Red Riding Hood left straightaway to go and visit her grandmother,"</rdg>
+<rdg wit="#M">"Little Red Hood set out immediately to visit her grandmother,"</rdg>
+<rdg wit="#N">"Little Red Riding-Hood set off at once to visit her grandmother,"</rdg>
+<rdg wit="#O">"The little red tippet left right away for her grandmother’s house,"</rdg>
+<rdg wit="#P">"Little Bed Riding Hood left right away for her grandmother's house,"</rdg>
+<rdg wit="#Q">"The little red hood set out immediately to go to her granny’s,"</rdg>
+</app><app>
+<rdg wit="#A">qui demeurait dans un autre village</rdg>
+<lem>qui demeurait dans un autre Village.</lem>
+<rdg wit="#C">who lived in another village.</rdg>
+<rdg wit="#D">who lived in another village.</rdg>
+<rdg wit="#E">"Pretty Mis put on her Red-Cap, & went in all haste."</rdg>
+<rdg wit="#F">who lived in another village.</rdg>
+<rdg wit="#G">who lived in another village.</rdg>
+<rdg wit="#H">who lived in another village.</rdg>
+<rdg wit="#I">who lived in another village.</rdg>
+<rdg wit="#J">who lived in another village.</rdg>
+<rdg wit="#K">who lived in another village.</rdg>
+<rdg wit="#L">who lived in another village.</rdg>
+<rdg wit="#M">who lived in another village.</rdg>
+<rdg wit="#N">who lived in another village.</rdg>
+<rdg wit="#O">where she lived in another village.</rdg>
+<rdg wit="#P">which was in another village.</rdg>
+<rdg wit="#Q">which was in another Village.</rdg>
+</app><app>
+<rdg wit="#A">en passant dans un bois</rdg>
+<lem>En passant dans un bois elle</lem>
+<rdg wit="#C">"As she was going through the wood,"</rdg>
+<rdg wit="#D">"As she was going thro' the wood,"</rdg>
+<rdg wit="#E">"But crossing a Thicket, in the way,"</rdg>
+<rdg wit="#F">"As she was going through the wood,"</rdg>
+<rdg wit="#G">"As she was going through the wood,"</rdg>
+<rdg wit="#H">On her way through a wood</rdg>
+<rdg wit="#I">"As she was going thro' the wood,"</rdg>
+<rdg wit="#J">As she was going through a wood</rdg>
+<rdg wit="#K">In passing through the forest</rdg>
+<rdg wit="#L">"On her way through the wood,"</rdg>
+<rdg wit="#M">"While crossing a forest,"</rdg>
+<rdg wit="#N">"As she was going into a wood,"</rdg>
+<rdg wit="#O">"While she was crossing the woods,"</rdg>
+<rdg wit="#P">As she was walking through the woods</rdg>
+<rdg wit="#Q">"While walking in a wood,"</rdg>
+</app><app>
+<rdg wit="#A">elle rencontra compère le Loup</rdg>
+<lem>"rencontra compère le Loup,"</lem>
+<rdg wit="#C">"she met with Gossop Wolfe,"</rdg>
+<rdg wit="#D">"she met with Gaffer Wolf,"</rdg>
+<rdg wit="#E">"there she met with a Woolf,"</rdg>
+<rdg wit="#F">"she met with Gaffer Wolf,"</rdg>
+<rdg wit="#G">"she met Gaffer Wolf,"</rdg>
+<rdg wit="#H">she met old Father Wolf.</rdg>
+<rdg wit="#I">"she met with Gaffer Wolf,"</rdg>
+<rdg wit="#J">"she met Master Wolf,"</rdg>
+<rdg wit="#K">"she met old neighbor wolf,"</rdg>
+<rdg wit="#L">"she met a wolf,"</rdg>
+<rdg wit="#M">"she met Godfather Wolf,"</rdg>
+<rdg wit="#N">"she met Master Wolf,"</rdg>
+<rdg wit="#O">"she ran into the neighborhood wolf,"</rdg>
+<rdg wit="#P">"she met old Neighbor Wolf,"</rdg>
+<rdg wit="#Q">"she met buddy the Wolf,"</rdg>
+</app><app>
+<rdg wit="#A">"qui eut bien envie de la manger,"</rdg>
+<lem>"qui eut bien envie de la manger,"</lem>
+<rdg wit="#C">"who had a very great mind to eat her up,"</rdg>
+<rdg wit="#D">"who had a very great mind to eat her up,"</rdg>
+<rdg wit="#E">"who, being very hungry, had a good mind to eat her up."</rdg>
+<rdg wit="#F">"who had a very great mind to eat her up,"</rdg>
+<rdg wit="#G">who had a very great mind to eat her up;</rdg>
+<rdg wit="#H">"He would have very much liked to eat her,"</rdg>
+<rdg wit="#I">"who had a very great mind to eat her up,"</rdg>
+<rdg wit="#J">who had a great mind to eat her</rdg>
+<rdg wit="#K">who had a great desire to eat her.</rdg>
+<rdg wit="#L">"who quite fancied eating her but did not dare,"</rdg>
+<rdg wit="#M">"who had a real urge to eat her,"</rdg>
+<rdg wit="#N">and he wanted very much to eat her up;</rdg>
+<rdg wit="#O">who very much wanted to eat her</rdg>
+<rdg wit="#P">who wanted to eat her right there on the spot.</rdg>
+<rdg wit="#Q">"who really wanted to eat her,"</rdg>
+</app><app>
+<rdg wit="#A">mais il n’osa à cause de quelques bucherons qui étaient dans la forêt.</rdg>
+<lem>"mais il n'osa, à cause de quelques Bûcherons qui étaient dans la Forêt."</lem>
+<rdg wit="#C">"but he did not dare, because of some faggot-makers that were in the forrest."</rdg>
+<rdg wit="#D">"but he durst not, because of some faggot-makers hard by in the forest."</rdg>
+<rdg wit="#E">"A few Men, he saw at a distance, frightened hi, & the naughty Fellow dissembling made only a Courtesy,"</rdg>
+<rdg wit="#F">"but he dared not, because of some faggot-makers hard by in the forest."</rdg>
+<rdg wit="#G">"but he dared not, because of some fagot-makers hard by in the forest."</rdg>
+<rdg wit="#H">but dared not do so on account of some wood-cutters who were in the forest.</rdg>
+<rdg wit="#I">"but he durst not, because of some faggot-makers hard by in the forest."</rdg>
+<rdg wit="#J">but did not dare to because of some woodcutters who were working near by.</rdg>
+<rdg wit="#K">But he did not dare because of some woodcutters who were in the forest.</rdg>
+<rdg wit="#L">because of the woodcutters who were working in the forest.</rdg>
+<rdg wit="#M">"but didn't dare to, because there were a few woodcutters in the forest."</rdg>
+<rdg wit="#N">"but he did not dare, because there were some woodcutters in the forest."</rdg>
+<rdg wit="#O">but did not dare because of the woodsmen in the forest.</rdg>
+<rdg wit="#P">But he didn't dare because some woodcutters were in the forest.</rdg>
+<rdg wit="#Q">but he dared not because of a few Woodcutters who were in the Forest.</rdg>
+</app><app>
+<rdg wit="#A">"Il lui demanda où elle allait,"</rdg>
+<lem>Il lui demanda où elle allait ;</lem>
+<rdg wit="#C">He asked of her whither she was going:</rdg>
+<rdg wit="#D">"He asked her, whither she was going:"</rdg>
+<rdg wit="#E">& asked Pretty Miss whether she was a going.</rdg>
+<rdg wit="#F">He asked her whither she was going.</rdg>
+<rdg wit="#G">He asked her whither she was going.</rdg>
+<rdg wit="#H">He asked her where she was going.</rdg>
+<rdg wit="#I">He asked her whither she was going.</rdg>
+<rdg wit="#J">He asked her where she was going.</rdg>
+<rdg wit="#K">Instead he asked her where she was going.</rdg>
+<rdg wit="#L">He asked her where she was going.</rdg>
+<rdg wit="#M">He asked her where she was going;</rdg>
+<rdg wit="#N">He asked her where she was going.</rdg>
+<rdg wit="#O">He asked her where she was going.</rdg>
+<rdg wit="#P">He asked where she was going.</rdg>
+<rdg wit="#Q">He asked her where she was going.</rdg>
+</app><app>
+<rdg wit="#A">la pauvre Enfant qui ne savait pas encore</rdg>
+<lem>la pauvre enfant qui ne savait pas</lem>
+<rdg wit="#C">"The poor child, who did not know"</rdg>
+<rdg wit="#D">"The poor child, who did not know"</rdg>
+<rdg wit="#E">The poor Girl knew not yet</rdg>
+<rdg wit="#F">"The poor child, who did not know"</rdg>
+<rdg wit="#G">"The poor child, who did not know"</rdg>
+<rdg wit="#H">"The poor child, not knowing"</rdg>
+<rdg wit="#I">"The poor child, who did not know"</rdg>
+<rdg wit="#J">"The poor child, who did not know"</rdg>
+<rdg wit="#K">"The poor child, who did not know"</rdg>
+<rdg wit="#L">"The poor child, who did not know"</rdg>
+<rdg wit="#M">"the poor girl, who didn't know"</rdg>
+<rdg wit="#N">"The poor child, who did not know"</rdg>
+<rdg wit="#O">"The poor girl, who did not know"</rdg>
+<rdg wit="#P">"The poor child, who did not know"</rdg>
+<rdg wit="#Q">"The poor child, who didn’t know"</rdg>
+</app><app>
+<rdg wit="#A">"qu’il n’est pas bon de s’arrêter à écouter un Loup,"</rdg>
+<lem>"qu'il est dangereux de s'arrêter à écouter un Loup,"</lem>
+<rdg wit="#C">"how it was dangerous a thing it is to stay and hear a Wolfe talk,"</rdg>
+<rdg wit="#D">"that it was dangerous to stay and hear a Wolf talk,"</rdg>
+<rdg wit="#E">"how dangerous it is to listen to a Woolf,"</rdg>
+<rdg wit="#F">"that it was dangerous to stay and hear a wolf talk,"</rdg>
+<rdg wit="#G">"that it was dangerous to stay and hear a wolf talk,"</rdg>
+<rdg wit="#H">"that it was dangerous to stop and listen to a wolf,"</rdg>
+<rdg wit="#I">"that it was dangerous to stay and hear a Wolf talk,"</rdg>
+<rdg wit="#J">"that it was dangerous to stop and talk to a wolf,"</rdg>
+<rdg wit="#K">"that it is dangerous to stop and listen to a wolf,"</rdg>
+<rdg wit="#L">"that it is dangerous to stop and chat with wolves,"</rdg>
+<rdg wit="#M">"that it's dangerous to stop and listen to a wolf,"</rdg>
+<rdg wit="#N">"that it is dangerous to stay and listen to a wolf,"</rdg>
+<rdg wit="#O">"that it is dangerous to stop and listen to wolves,"</rdg>
+<rdg wit="#P">"that it was dangerous to stop and listen to wolves,"</rdg>
+<rdg wit="#Q">"it is dangerous to stop and listen to a Wolf,"</rdg>
+</app><app>
+<rdg wit="#A">lui dit</rdg>
+<lem>"lui dit,"</lem>
+<rdg wit="#C">"said to him,"</rdg>
+<rdg wit="#D">"said to him,"</rdg>
+<rdg wit="#E">"* good Master, said she,"</rdg>
+<rdg wit="#F">said to him:</rdg>
+<rdg wit="#G">said to him: —</rdg>
+<rdg wit="#H">said:</rdg>
+<rdg wit="#I">said to him</rdg>
+<rdg wit="#J">said:</rdg>
+<rdg wit="#K">"said to him,"</rdg>
+<rdg wit="#L">"said to him,"</rdg>
+<rdg wit="#M">said:</rdg>
+<rdg wit="#N">told him:</rdg>
+<rdg wit="#O">told him:</rdg>
+<rdg wit="#P">said:</rdg>
+<rdg wit="#Q">told him:</rdg>
+</app><app>
+<rdg wit="#A">je vais voir ma mère grand</rdg>
+<lem>"je vais voir ma Mère-grand,"</lem>
+<rdg wit="#C">"""I am going to see my grand-mamma,"</rdg>
+<rdg wit="#D">"I am going to see my grand-mamma,"</rdg>
+<rdg wit="#E">"j am going to Grany’s,"</rdg>
+<rdg wit="#F">"""I am going to see my grandmamma"</rdg>
+<rdg wit="#G">"""I am going to see my grandmother,"</rdg>
+<rdg wit="#H">"I am going to see my grandmother,"</rdg>
+<rdg wit="#I">"""I am going to see my grand-mamma,"</rdg>
+<rdg wit="#J">I am going to see my grandmother</rdg>
+<rdg wit="#K">"Tm going to see my grandmother,"</rdg>
+<rdg wit="#L">"""I'm going to see my grandmother,"</rdg>
+<rdg wit="#M">“I’m going to see my grandmother</rdg>
+<rdg wit="#N">"‘I am going to see my grandmother,"</rdg>
+<rdg wit="#O">“I’m going to see my grandmother</rdg>
+<rdg wit="#P">"""I'm going to see my grandmother"</rdg>
+<rdg wit="#Q">“I’m going to see my Granny</rdg>
+</app><app>
+<rdg wit="#A">"et lui porter une galette, avec un petit pot de beurre "</rdg>
+<lem>et lui porter une galette avec un petit pot de beurre</lem>
+<rdg wit="#C">"and carry her a custard pye, and a little pot of butter"</rdg>
+<rdg wit="#D">"and carry her a custard, and a little pot of butter,"</rdg>
+<rdg wit="#E">with a Cake & a Pot of Butter</rdg>
+<rdg wit="#F">and carry her a custard and a little pot of butter</rdg>
+<rdg wit="#G">and carry her a custard and a little pot of butter</rdg>
+<rdg wit="#H">and am taking her a cake and a pot of butter</rdg>
+<rdg wit="#I">"and carry her a girdle-cake, and a little pot of butter,"</rdg>
+<rdg wit="#J">and am taking her a cake and a little pot of butter</rdg>
+<rdg wit="#K">and I'm bringing her some biscuits with a small pot of butter</rdg>
+<rdg wit="#L">to take her a loaf with a little pot of butter</rdg>
+<rdg wit="#M">and bring her a biscuit with a little pot of butter</rdg>
+<rdg wit="#N">and I’m taking her a bun and a little pot of butter</rdg>
+<rdg wit="#O">and bring her a galette with a small jar of butter</rdg>
+<rdg wit="#P">and am taking her some cakes and a little pot of butter</rdg>
+<rdg wit="#Q">and take her a flat cake and a little jar of butter </rdg>
+</app><app>
+<rdg wit="#A">que ma mère lui envoie.</rdg>
+<lem>que ma Mère lui envoie.</lem>
+<rdg wit="#C">"my mamma sends her."""</rdg>
+<rdg wit="#D">from my mamma.</rdg>
+<rdg wit="#E">from my good Mamy.</rdg>
+<rdg wit="#F">"from my mamma."""</rdg>
+<rdg wit="#G">"from my mamma."""</rdg>
+<rdg wit="#H">which my mother has sent to her.'</rdg>
+<rdg wit="#I">"from my mamma."""</rdg>
+<rdg wit="#J">"from my mother."""</rdg>
+<rdg wit="#K">"that my mother's sending her."""</rdg>
+<rdg wit="#L">"that my mother has sent."""</rdg>
+<rdg wit="#M">"that my mother is sending her."""</rdg>
+<rdg wit="#N">that my mother is sending me with.'</rdg>
+<rdg wit="#O">"from my mother."""</rdg>
+<rdg wit="#P">"sent by my mother."""</rdg>
+<rdg wit="#Q">"that my Mother is sending her."""</rdg>
+</app><app>
+<rdg wit="#A">--</rdg>
+<lem>--</lem>
+<rdg wit="#C">--</rdg>
+<rdg wit="#D">--</rdg>
+<rdg wit="#E">"Say you so! Said he,"</rdg>
+<rdg wit="#F">--</rdg>
+<rdg wit="#G">--</rdg>
+<rdg wit="#H">--</rdg>
+<rdg wit="#I">--</rdg>
+<rdg wit="#J">--</rdg>
+<rdg wit="#K">--</rdg>
+<rdg wit="#L">--</rdg>
+<rdg wit="#M">--</rdg>
+<rdg wit="#N">--</rdg>
+<rdg wit="#O">--</rdg>
+<rdg wit="#P">--</rdg>
+<rdg wit="#Q">--</rdg>
+</app><app>
+<rdg wit="#A">Demeure t’elle bien loin d’ici lui</rdg>
+<lem>"Demeure-t-elle bien loin,"</lem>
+<rdg wit="#C">"""Does she live far off?"""</rdg>
+<rdg wit="#D">Does she live far off?</rdg>
+<rdg wit="#E">& doth she live a far off?</rdg>
+<rdg wit="#F">"""Does she live far off?"""</rdg>
+<rdg wit="#G">"""Does she live far off?"""</rdg>
+<rdg wit="#H">Does she live far away?'</rdg>
+<rdg wit="#I">"""Does she live far off?"""</rdg>
+<rdg wit="#J">“Does she live far from here?”</rdg>
+<rdg wit="#K">"""Does she live far from here?"""</rdg>
+<rdg wit="#L">"""Does she live very far away?"""</rdg>
+<rdg wit="#M">"""Does she live very far away?"""</rdg>
+<rdg wit="#N">‘Does she live a long way off?’</rdg>
+<rdg wit="#O">“Does she live far?”</rdg>
+<rdg wit="#P">"""Does she live very far away?'"</rdg>
+<rdg wit="#Q">“Is her house really far away?”</rdg>
+</app><app>
+<rdg wit="#A">dit le Loup.</rdg>
+<lem>lui dit le Loup ?</lem>
+<rdg wit="#C">said the Wolfe.</rdg>
+<rdg wit="#D">said the Wolf.</rdg>
+<rdg wit="#E">--</rdg>
+<rdg wit="#F">said the Wolf.</rdg>
+<rdg wit="#G">said the Wolf.</rdg>
+<rdg wit="#H">asked the Wolf.</rdg>
+<rdg wit="#I">said the Wolf.</rdg>
+<rdg wit="#J">asked the wolf.</rdg>
+<rdg wit="#K">the wolf asked.</rdg>
+<rdg wit="#L">asked the wolf.</rdg>
+<rdg wit="#M">the wolf asked.</rdg>
+<rdg wit="#N">asked the Wolf.</rdg>
+<rdg wit="#O">said the wolf.</rdg>
+<rdg wit="#P">asked the wolf.</rdg>
+<rdg wit="#Q">the Wolf said to her.</rdg>
+</app><app>
+<rdg wit="#A">O ! oui</rdg>
+<lem>"Oh oui,"</lem>
+<rdg wit="#C">"""Oh! ay,"""</rdg>
+<rdg wit="#D">"Oh! ay,"</rdg>
+<rdg wit="#E">"Oh yes,"</rdg>
+<rdg wit="#F">"""Oh! ay,"""</rdg>
+<rdg wit="#G">"""Oh, yes,"""</rdg>
+<rdg wit="#H">"Oh yes, '"</rdg>
+<rdg wit="#I">"""Oh! ay,"""</rdg>
+<rdg wit="#J">"Oh yes,'"</rdg>
+<rdg wit="#K">"""Oh, yes!"""</rdg>
+<rdg wit="#L">"""Oh, yes,"""</rdg>
+<rdg wit="#M">"""Oh, yes,"""</rdg>
+<rdg wit="#N">"‘Oh yes, ’"</rdg>
+<rdg wit="#O">"“Oh, yes,”"</rdg>
+<rdg wit="#P">"""Oh, yes,"""</rdg>
+<rdg wit="#Q">"“Oh yes,”"</rdg>
+</app><app>
+<rdg wit="#A">"lui dit le petit chaperon rouge,"</rdg>
+<lem>"dit le petit chaperon rouge,"</lem>
+<rdg wit="#C">"said the little red Riding-Hood,"</rdg>
+<rdg wit="#D">"answered Little Red Riding-Hood,"</rdg>
+<rdg wit="#E">said she;</rdg>
+<rdg wit="#F">answered Little Red Riding-Hood;</rdg>
+<rdg wit="#G">answered Little Red Riding-hood;</rdg>
+<rdg wit="#H">replied Little Red Riding Hood;</rdg>
+<rdg wit="#I">"answered Little Red Riding-Hood,"</rdg>
+<rdg wit="#J">"said Little Red Riding-Hood,"</rdg>
+<rdg wit="#K">Little Red Riding Hood said.</rdg>
+<rdg wit="#L">said Little Red Riding Hood.</rdg>
+<rdg wit="#M">"said Little Red Hood,"</rdg>
+<rdg wit="#N">"said Little Red Riding-Hood,"</rdg>
+<rdg wit="#O">"said the little red tippet,"</rdg>
+<rdg wit="#P">said Little Red Riding Hood.</rdg>
+<rdg wit="#Q">"said the little red hood,"</rdg>
+</app><app>
+<rdg wit="#A">"c’est par delà le moulin que vous voyez tout là-bas,"</rdg>
+<lem>"c'est par delà le moulin que vous voyez tout là-bas,"</lem>
+<rdg wit="#C">"« on the other side of the mill below yonder,"</rdg>
+<rdg wit="#D">"it is beyond that mill you see there,"</rdg>
+<rdg wit="#E">"it is beyond that Mill you see yonder,"</rdg>
+<rdg wit="#F">"""it is beyond that mill you see there,"</rdg>
+<rdg wit="#G">"""it is beyond that mill you see there,"</rdg>
+<rdg wit="#H">"it is yonder by the mill which you can see right below there,"</rdg>
+<rdg wit="#I">"""it is beyond that mill you see there,"</rdg>
+<rdg wit="#J">"it's beyond that mill which you see over there,"</rdg>
+<rdg wit="#K">""" You've got to go by the mill, which you can see right over there,"</rdg>
+<rdg wit="#L">"""It's beyond that mill you can see over there."</rdg>
+<rdg wit="#M">"""it's past the mill you see way over there,"</rdg>
+<rdg wit="#N">"‘it’s beyond the mill that you can see ever so far away over there,"</rdg>
+<rdg wit="#O">“it’s further than that mill you see way over there.</rdg>
+<rdg wit="#P">"""She lives beyond the mill that you can see over there."</rdg>
+<rdg wit="#Q">"“it’s beyond the mill you see way over there,"</rdg>
+</app><app>
+<rdg wit="#A">là-bas à la première maison du village.</rdg>
+<lem>"là-bas, à la première maison du Village."</lem>
+<rdg wit="#C">at the first house in the village.»</rdg>
+<rdg wit="#D">at the first house in the village.</rdg>
+<rdg wit="#E">"yonder, at the very first house of the Town."</rdg>
+<rdg wit="#F">"at the first house in the village."""</rdg>
+<rdg wit="#G">"the first house you come to in the village."""</rdg>
+<rdg wit="#H">and it is the first house in the village.'</rdg>
+<rdg wit="#I">"at the first house in the village."""</rdg>
+<rdg wit="#J">in the first house in the village.</rdg>
+<rdg wit="#K">"and hers is the first house in the village."""</rdg>
+<rdg wit="#L">"Right there, the first house in the village."""</rdg>
+<rdg wit="#M">"the first house in the village."""</rdg>
+<rdg wit="#N">and it’s the first house you come to in the village.’</rdg>
+<rdg wit="#O">"There, the first house in the village.”"</rdg>
+<rdg wit="#P">"Hers is the first house you come to in the village."""</rdg>
+<rdg wit="#Q">"there, at the first house in the Village.”"</rdg>
+</app><app>
+<rdg wit="#A">"Et bien,"</rdg>
+<lem>"Et bien,"</lem>
+<rdg wit="#C">"""Well,"""</rdg>
+<rdg wit="#D">"Well,"</rdg>
+<rdg wit="#E">"Well,"</rdg>
+<rdg wit="#F">"""Well,"""</rdg>
+<rdg wit="#G">"""Well,"""</rdg>
+<rdg wit="#H">"Well now,'"</rdg>
+<rdg wit="#I">"""Well,"""</rdg>
+<rdg wit="#J">"Well,'"</rdg>
+<rdg wit="#K">"""Well,t hen,"""</rdg>
+<rdg wit="#L">"""Well,"""</rdg>
+<rdg wit="#M">"""All right,"""</rdg>
+<rdg wit="#N">"‘Well then,’"</rdg>
+<rdg wit="#O">“You know what?”</rdg>
+<rdg wit="#P">"""Well, well,"""</rdg>
+<rdg wit="#Q">"“Then,”"</rdg>
+</app><app>
+<rdg wit="#A">"lui dit le Loup,"</rdg>
+<lem>"dit le Loup,"</lem>
+<rdg wit="#C">"said the Wolfe,"</rdg>
+<rdg wit="#D">"said the Wolf,"</rdg>
+<rdg wit="#E">"said,"</rdg>
+<rdg wit="#F">"said the Wolf,"</rdg>
+<rdg wit="#G">"said the Wolf,"</rdg>
+<rdg wit="#H">"said the Wolf,"</rdg>
+<rdg wit="#I">"said the Wolf,"</rdg>
+<rdg wit="#J">"said the wolf,"</rdg>
+<rdg wit="#K">"said the wolf,"</rdg>
+<rdg wit="#L">"said the wolf,"</rdg>
+<rdg wit="#M">"said the wolf,"</rdg>
+<rdg wit="#N">"said the Wolf,"</rdg>
+<rdg wit="#O">"said the wolf,"</rdg>
+<rdg wit="#P">said the wolf.</rdg>
+<rdg wit="#Q">"said the Wolf,"</rdg>
+</app><app>
+<rdg wit="#A">"j’y veux aller aussi,"</rdg>
+<lem>je veux l'aller voir aussi ;</lem>
+<rdg wit="#C">"""and I'll go and see her too;"</rdg>
+<rdg wit="#D">and I'll go and see her too;</rdg>
+<rdg wit="#E">--</rdg>
+<rdg wit="#F">""" and I'll go and see her too."</rdg>
+<rdg wit="#G">"""and I'll go and see her, too."</rdg>
+<rdg wit="#H">I think I shall go and see her too.</rdg>
+<rdg wit="#I">"""and I'll go and see her too:"</rdg>
+<rdg wit="#J">"I am going to see her, too."</rdg>
+<rdg wit="#K">"I'll go and see her, too."</rdg>
+<rdg wit="#L">"""I want to go and see her too."</rdg>
+<rdg wit="#M">"""I want to visit her, too;"</rdg>
+<rdg wit="#N">‘I’d like to go and see her too.</rdg>
+<rdg wit="#O">"“I would like to go see her, too."</rdg>
+<rdg wit="#P">"""I think I shall go and see her too."</rdg>
+<rdg wit="#Q">“I want to go see her too.</rdg>
+</app><app>
+<rdg wit="#A">"je m’y en vais par ce chemin ci et toi par ce chemin là,"</rdg>
+<lem>"je m'y en vais par ce chemin icy, et toi par ce chemin-là,"</lem>
+<rdg wit="#C">"I'll go this way, and go you that,"</rdg>
+<rdg wit="#D">"I'll go this way, and go you that,"</rdg>
+<rdg wit="#E">"j’ll go there but by this way. You shal go by that,"</rdg>
+<rdg wit="#F">"I'll go this way and you go that,"</rdg>
+<rdg wit="#G">"I'll go this way, and you go that,"</rdg>
+<rdg wit="#H">"I will go by this path, and you by that path,"</rdg>
+<rdg wit="#I">"I'll go this way, and you go that,"</rdg>
+<rdg wit="#J">"I will go this way and you go that way,"</rdg>
+<rdg wit="#K">"You take that path there, and I'll take this path here,"</rdg>
+<rdg wit="#L">"I'll go by this road and you by that one,"</rdg>
+<rdg wit="#M">"I'll take this path here, and you take that path there,"</rdg>
+<rdg wit="#N">"I’ll go by this path here, and you go by that one,"</rdg>
+<rdg wit="#O">I’ll set out on this path and you take that one.</rdg>
+<rdg wit="#P">"I'll take the path over here, and you take the path over there,"</rdg>
+<rdg wit="#Q">"I’m going off there on hither path, and you on yonder path,"</rdg>
+</app><app>
+<rdg wit="#A">nous verrons qui plutôt y sera.</rdg>
+<lem>et nous verrons qui plutôt y sera.</lem>
+<rdg wit="#C">"and we shall see who will be there soonest."""</rdg>
+<rdg wit="#D">and we shall see who will be there soonest.</rdg>
+<rdg wit="#E">"& we’ll see who will be there first. So said he,"</rdg>
+<rdg wit="#F">"and we shall see who will be there soonest."""</rdg>
+<rdg wit="#G">"and we shall see who will be there first."""</rdg>
+<rdg wit="#H">and we will see who gets there first.'</rdg>
+<rdg wit="#I">"and we shall see who will be there soonest."""</rdg>
+<rdg wit="#J">and we will see who gets there first.'</rdg>
+<rdg wit="#K">"and we'll see who'll get there first."""</rdg>
+<rdg wit="#L">"and we'll see who gets there first."""</rdg>
+<rdg wit="#M">"and we'll see who gets there first."""</rdg>
+<rdg wit="#N">and we’ll see who gets there first.’</rdg>
+<rdg wit="#O">We’ll see who gets there faster.”</rdg>
+<rdg wit="#P">"and we'll see who gets there first."""</rdg>
+<rdg wit="#Q">and we’ll see who sooner will be there. ”</rdg>
+</app><app>
+<rdg wit="#A">Le loup se mit à courir de toute sa force</rdg>
+<lem>Le Loup se mit à courir de toute sa force</lem>
+<rdg wit="#C">"The Wolfe began to run as fast as he was able,"</rdg>
+<rdg wit="#D">"The Wolf began to run as fast as he could,"</rdg>
+<rdg wit="#E">& sett himself a running full speed</rdg>
+<rdg wit="#F">"The Wolf began to run as fast as he could,"</rdg>
+<rdg wit="#G">"The Wolf began to run as fast as he could,"</rdg>
+<rdg wit="#H">The Wolf set off running with all his might</rdg>
+<rdg wit="#I">"The Wolf began to run as fast as he could,"</rdg>
+<rdg wit="#J">The wolf ran off at full speed</rdg>
+<rdg wit="#K">The wolf began to run as fast as he could</rdg>
+<rdg wit="#L">The wolf started to run as fast as he could</rdg>
+<rdg wit="#M">The wolf started running as fast as he could</rdg>
+<rdg wit="#N">The Wolf began to run as hard as he could</rdg>
+<rdg wit="#O">The wolf raced</rdg>
+<rdg wit="#P">The wolf ran as fast as he could </rdg>
+<rdg wit="#Q">The Wolf started to run with all his might </rdg>
+</app><app>
+<rdg wit="#A">"par le chemin le plus court,"</rdg>
+<lem>"par le chemin qui était le plus court,"</lem>
+<rdg wit="#C">the shortest way;</rdg>
+<rdg wit="#D">taking the nearest way;</rdg>
+<rdg wit="#E">by the shortest way.</rdg>
+<rdg wit="#F">"taking the nearest way,"</rdg>
+<rdg wit="#G">"taking the shortest way,"</rdg>
+<rdg wit="#H">"by the shorter road,"</rdg>
+<rdg wit="#I">taking the nearest way;</rdg>
+<rdg wit="#J">"along the shortest path,"</rdg>
+<rdg wit="#K">"on the shorter path,"</rdg>
+<rdg wit="#L">"by the short­cut,"</rdg>
+<rdg wit="#M">"down the shorter path,"</rdg>
+<rdg wit="#N">"along his path, which was shorter,"</rdg>
+<rdg wit="#O">"down the short path,"</rdg>
+<rdg wit="#P">"on the shorter path,"</rdg>
+<rdg wit="#Q">"on the path that was the shortest,"</rdg>
+</app><app>
+<rdg wit="#A">et la petite fille alla par le plus long</rdg>
+<lem>"et la petite fille s'en alla par le chemin le plus long,"</lem>
+<rdg wit="#C">"and the little girl went the longest,"</rdg>
+<rdg wit="#D">"and the little girl went by that farthest about,"</rdg>
+<rdg wit="#E">"Pretty Misi took the longest,"</rdg>
+<rdg wit="#F">"and the little girl went by that farthest about,"</rdg>
+<rdg wit="#G">"and the little girl went by the longest way,"</rdg>
+<rdg wit="#H">and the little girl continued on her way by the longer</rdg>
+<rdg wit="#I">"and the little girl went by that farthest about,"</rdg>
+<rdg wit="#J">"while the little girl took the longest one,"</rdg>
+<rdg wit="#K">and the little girl took the longer path.</rdg>
+<rdg wit="#L">"and the little girl took the longer path,"</rdg>
+<rdg wit="#M">"and the little girl took the longer path,"</rdg>
+<rdg wit="#N">"while the little girl went by the longer path,"</rdg>
+<rdg wit="#O">"while the young girl set out on the long one,"</rdg>
+<rdg wit="#P">and the little girl continued on her way along the longer path.</rdg>
+<rdg wit="#Q">and the little girl left on the longest path</rdg>
+</app><app>
+<rdg wit="#A">--</rdg>
+<lem>--</lem>
+<rdg wit="#C">--</rdg>
+<rdg wit="#D">--</rdg>
+<rdg wit="#E">& made it still longe by her plays.</rdg>
+<rdg wit="#F">--</rdg>
+<rdg wit="#G">--</rdg>
+<rdg wit="#H">She met old Father H'alf road.</rdg>
+<rdg wit="#I">--</rdg>
+<rdg wit="#J">--</rdg>
+<rdg wit="#K">"What's more,"</rdg>
+<rdg wit="#L">--</rdg>
+<rdg wit="#M">--</rdg>
+<rdg wit="#N">--</rdg>
+<rdg wit="#O">--</rdg>
+<rdg wit="#P">--</rdg>
+<rdg wit="#Q">--</rdg>
+</app><app>
+<rdg wit="#A">"s’amusant à cueillir des noisettes,"</rdg>
+<lem>"s'amusant à cueillir des noisettes,"</lem>
+<rdg wit="#C">"diverting her self in gathering nuts,"</rdg>
+<rdg wit="#D">"diverting herself in gathering nuts,"</rdg>
+<rdg wit="#E">She looked for Filbirds;</rdg>
+<rdg wit="#F">"diverting herself in gathering nuts,"</rdg>
+<rdg wit="#G">"amusing herself by gathering nuts,"</rdg>
+<rdg wit="#H">"As she went she amused herself by gathering nuts,"</rdg>
+<rdg wit="#I">"diverting herself in gathering nuts,"</rdg>
+<rdg wit="#J">"dawdling on the way to gather nuts,"</rdg>
+<rdg wit="#K">"she enjoyed herself by gathering nuts,"</rdg>
+<rdg wit="#L">"dawdling to pick some hazelnuts,"</rdg>
+<rdg wit="#M">"killing time by gathering hazelnuts,"</rdg>
+<rdg wit="#N">"and amused herself gathering hazel-nuts,"</rdg>
+<rdg wit="#O">"happily picking hazelnuts,"</rdg>
+<rdg wit="#P">"She had a good time gathering nuts,"</rdg>
+<rdg wit="#Q">"passing the time by picking hazelnuts,"</rdg>
+</app><app>
+<rdg wit="#A">à courir après des papillons</rdg>
+<lem>"à courir après des papillons,"</lem>
+<rdg wit="#C">"running after butterflies,"</rdg>
+<rdg wit="#D">"running after butterflies,"</rdg>
+<rdg wit="#E">she ran after Butter flyes:</rdg>
+<rdg wit="#F">"running after butterflies,"</rdg>
+<rdg wit="#G">"running after butterflies,"</rdg>
+<rdg wit="#H">"running after the butterflies,"</rdg>
+<rdg wit="#I">"running after butterflies,"</rdg>
+<rdg wit="#J">chase butterflies </rdg>
+<rdg wit="#K">"running after butterflies,"</rdg>
+<rdg wit="#L">"chase after butterflies,"</rdg>
+<rdg wit="#M">"chasing butterflies,"</rdg>
+<rdg wit="#N">"running after butterflies,"</rdg>
+<rdg wit="#O">"running after butterflies,"</rdg>
+<rdg wit="#P">chasing butterflies</rdg>
+<rdg wit="#Q">"running after butterflies,"</rdg>
+</app><app>
+<rdg wit="#A">et à faire des bouquets des petites fleurs qu’elle rencontrait.</rdg>
+<lem>et à faire des bouquets des petites fleurs qu'elle rencontrait.</lem>
+<rdg wit="#C">and making nose-gays of all the little flowers she met with.</rdg>
+<rdg wit="#D">and making nosegays of such little flowers as she met with.</rdg>
+<rdg wit="#E">she pick’d Daysies & Butterflowers for a Nosegay.</rdg>
+<rdg wit="#F">and making nosegays of such little flowers as she met with.</rdg>
+<rdg wit="#G">and making nosegays of such little flowers as she met with.</rdg>
+<rdg wit="#H">and making nosegays of the wild flowers which she found.</rdg>
+<rdg wit="#I">and making nosegays of such little flowers as she met with.</rdg>
+<rdg wit="#J">and pick little bunches of wild flowers.</rdg>
+<rdg wit="#K">and making bouquets of small flowers that she found along the way.</rdg>
+<rdg wit="#L">and make little bunches of the wayside flowers.</rdg>
+<rdg wit="#M">and making bouquets from the little flowers she came across.</rdg>
+<rdg wit="#N">and making posies out of the flowers that she saw.</rdg>
+<rdg wit="#O">and making bouquets with tiny flowers she found.</rdg>
+<rdg wit="#P">and picking bunches of flowers that she found.</rdg>
+<rdg wit="#Q">and making bouquets with the little flowers she came upon.</rdg>
+</app><app>
+<rdg wit="#A">Le loup ne fut pas longtemps à arriver à la maison de la mère grand.</rdg>
+<lem>"Le Loup ne fut pas longtemps à arriver à la maison de la Mère-grand,"</lem>
+<rdg wit="#C">The Wolfe was not long before he came to the grandmother's house;</rdg>
+<rdg wit="#D">The Wolf was not long before he got to the old woman's house:</rdg>
+<rdg wit="#E">"The Woolf was soon att the house,"</rdg>
+<rdg wit="#F">The Wolf was not long before he got to the old woman's house.</rdg>
+<rdg wit="#G">The Wolf was not long before he reached the old woman's house.</rdg>
+<rdg wit="#H">The Wolf was not long in reaching the grandmother's house.</rdg>
+<rdg wit="#I">The Wolf was not long before he got to the old woman's house:</rdg>
+<rdg wit="#J">The wolf soon reached the grandmother's house.</rdg>
+<rdg wit="#K">"It did not take the wolf long to arrive at the grandmother's house,"</rdg>
+<rdg wit="#L">The wolf soon arrived at the grandmother's house.</rdg>
+<rdg wit="#M">The wolf soon arrived at her grandmother's house;</rdg>
+<rdg wit="#N">The Wolf did not take long to reach the grandmother’s house.</rdg>
+<rdg wit="#O">It did not take the wolf long to arrive at the grandmother’s house.</rdg>
+<rdg wit="#P">The wolf did not take long to get to Grandmother's house.</rdg>
+<rdg wit="#Q">The Wolf didn’t take long to arrive at the Granny’s house.</rdg>
+</app><app>
+<rdg wit="#A">"Il heurta à sa porte,"</rdg>
+<lem>il heurte :</lem>
+<rdg wit="#C">he knocked at the door</rdg>
+<rdg wit="#D">"He knocked at the door,"</rdg>
+<rdg wit="#E">& knock’d.</rdg>
+<rdg wit="#F">He knocked at the door —</rdg>
+<rdg wit="#G">He knocked at the door—</rdg>
+<rdg wit="#H">He knocked.</rdg>
+<rdg wit="#I">"he knocked at the door,"</rdg>
+<rdg wit="#J">He knocked:</rdg>
+<rdg wit="#K">and he knocked:</rdg>
+<rdg wit="#L">He knocked:</rdg>
+<rdg wit="#M">he knocked:</rdg>
+<rdg wit="#N">"He knocked at the door,"</rdg>
+<rdg wit="#O">He knocked:</rdg>
+<rdg wit="#P">He knocked:</rdg>
+<rdg wit="#Q">He raps:</rdg>
+</app><app>
+<rdg wit="#A">toc toc</rdg>
+<lem>"Toc, toc,"</lem>
+<rdg wit="#C">toc toc.</rdg>
+<rdg wit="#D">"tap, tap."</rdg>
+<rdg wit="#E">Tock. Tock.</rdg>
+<rdg wit="#F">"tap, tap."</rdg>
+<rdg wit="#G">"tap, tap, tap."</rdg>
+<rdg wit="#H">Toe Toe.</rdg>
+<rdg wit="#I">"tap, tap."</rdg>
+<rdg wit="#J">rat/a/tat.</rdg>
+<rdg wit="#K">"""Tick, tock."""</rdg>
+<rdg wit="#L">Rat! Tat!</rdg>
+<rdg wit="#M">"""Rap, rap."""</rdg>
+<rdg wit="#N">rat-a-tat-tat!</rdg>
+<rdg wit="#O">"knock, knock."</rdg>
+<rdg wit="#P">Rat-a-tat-tat.</rdg>
+<rdg wit="#Q">"Knock, knock."</rdg>
+</app><app>
+<rdg wit="#A">--</rdg>
+<lem>--</lem>
+<rdg wit="#C">--</rdg>
+<rdg wit="#D">--</rdg>
+<rdg wit="#E">"The old Woman cryed,"</rdg>
+<rdg wit="#F">--</rdg>
+<rdg wit="#G">--</rdg>
+<rdg wit="#H">--</rdg>
+<rdg wit="#I">--</rdg>
+<rdg wit="#J">--</rdg>
+<rdg wit="#K">--</rdg>
+<rdg wit="#L">--</rdg>
+<rdg wit="#M">--</rdg>
+<rdg wit="#N">--</rdg>
+<rdg wit="#O">--</rdg>
+<rdg wit="#P">--</rdg>
+<rdg wit="#Q">--</rdg>
+</app><app>
+<rdg wit="#A">qui est là ?</rdg>
+<lem>qui est là ?</lem>
+<rdg wit="#C">"""Whose there?"""</rdg>
+<rdg wit="#D">Who's there?</rdg>
+<rdg wit="#E">who’s there?</rdg>
+<rdg wit="#F">"""Who's there?"""</rdg>
+<rdg wit="#G">"""Who's there?"""</rdg>
+<rdg wit="#H">Who is there?'</rdg>
+<rdg wit="#I">"""Who's there?"""</rdg>
+<rdg wit="#J">Who's there?'</rdg>
+<rdg wit="#K">"""Who's there?"""</rdg>
+<rdg wit="#L">"""Who's there?"""</rdg>
+<rdg wit="#M">"""Who is it?'"</rdg>
+<rdg wit="#N">‘Who is it?’</rdg>
+<rdg wit="#O">“Who’s there?”</rdg>
+<rdg wit="#P">"""Who's there?"""</rdg>
+<rdg wit="#Q">“Who’s there?”</rdg>
+</app><app>
+<rdg wit="#A">--</rdg>
+<lem>--</lem>
+<rdg wit="#C">--</rdg>
+<rdg wit="#D">--</rdg>
+<rdg wit="#E">--</rdg>
+<rdg wit="#F">--</rdg>
+<rdg wit="#G"> called the grandmother.</rdg>
+<rdg wit="#H">--</rdg>
+<rdg wit="#I">--</rdg>
+<rdg wit="#J">--</rdg>
+<rdg wit="#K">--</rdg>
+<rdg wit="#L">--</rdg>
+<rdg wit="#M">--</rdg>
+<rdg wit="#N">--</rdg>
+<rdg wit="#O">--</rdg>
+<rdg wit="#P">--</rdg>
+<rdg wit="#Q">--</rdg>
+</app><app>
+<rdg wit="#A">c’est votre fille le petit chaperon rouge</rdg>
+<lem>C'est votre fille le petit chaperon rouge</lem>
+<rdg wit="#C">"""Your grand-daughter, The little red Riding-Hood,"""</rdg>
+<rdg wit="#D">"Your grand-child, Little Red Riding-Hood,"</rdg>
+<rdg wit="#E">"Your Daughter pretty Mis Red Cap,"</rdg>
+<rdg wit="#F">"""Your grandchild, Little Red Riding-Hood,"""</rdg>
+<rdg wit="#G">"""Your grandchild, Little Red Riding-hood,"""</rdg>
+<rdg wit="#H">"It is your little daughter, Red Riding Hood,'"</rdg>
+<rdg wit="#I">"""Your grand-child, Little Red Riding-Hood,"""</rdg>
+<rdg wit="#J">"It's your granddaughter, Little Red Riding-Hood,'"</rdg>
+<rdg wit="#K">"""It's your granddaughter, Little Red Riding Hood,"""</rdg>
+<rdg wit="#L">"""It's your granddaughter, Little Red Riding Hood,"""</rdg>
+<rdg wit="#M">"""It’s your granddaughter, Little Red Hood,"""</rdg>
+<rdg wit="#N">"‘It’s me, your granddaughter, Little Red Riding-Hood,’"</rdg>
+<rdg wit="#O">"“It’s your granddaughter, the little red tippet,”"</rdg>
+<rdg wit="#P">"""It's your granddaughter, Little Red Riding Hood,"""</rdg>
+<rdg wit="#Q">"“It’s your girl, the little red hood,”"</rdg>
+</app><app>
+<rdg wit="#A">dit le loup en contrefaisant sa voix</rdg>
+<lem>"(dit le Loup, en contrefaisant sa voix)"</lem>
+<rdg wit="#C">"said the Wolfe, counterfeiting her voice,"</rdg>
+<rdg wit="#D">"(replied the Wolf, counterfeiting her voice)"</rdg>
+<rdg wit="#E">answered he with a counterfeit Voice.</rdg>
+<rdg wit="#F">"replied the Wolf, counterfeiting her voice;"</rdg>
+<rdg wit="#G">"replied the Wolf, imitating her voice,"</rdg>
+<rdg wit="#H">"said the Wolf, disguising his voice,"</rdg>
+<rdg wit="#I">"replied the Wolf, counterfeiting her voice,"</rdg>
+<rdg wit="#J">"said the wolf, imitating her voice."</rdg>
+<rdg wit="#K">"the wolf said, disguising his voice."</rdg>
+<rdg wit="#L">"said the wolf, disguising his voice."</rdg>
+<rdg wit="#M">"said the wolf, disguising his voice,"</rdg>
+<rdg wit="#N">"said the Wolf, imitating the little girl’s voice,"</rdg>
+<rdg wit="#O">"said the wolf, imitating her voice,"</rdg>
+<rdg wit="#P">"said the wolf, disguising his voice."</rdg>
+<rdg wit="#Q">"said the Wolf, disguising his voice,"</rdg>
+</app><app>
+<rdg wit="#A">qui vous apporte une galette et un petit pot de beurre que ma mère vous envoie.</rdg>
+<lem>"qui vous apporte une galette, et un petit pot de beurre que ma Mère vous envoie."</lem>
+<rdg wit="#C">"""who has brought you a custard pye, and a little pot of butter mamma sends you."""</rdg>
+<rdg wit="#D">"who has brought you a custard, and a little pot of butter, sent you by mamma."</rdg>
+<rdg wit="#E">J come from my Good Mama with a cake & a pot of butter for you.</rdg>
+<rdg wit="#F">"""who has brought you a custard and a little pot of butter sent you by mamma."""</rdg>
+<rdg wit="#G">"""who has brought a custard and a little pot of butter sent to you by mamma."""</rdg>
+<rdg wit="#H">and I bring you a cake and a little pot of butter as a present from my mother.'</rdg>
+<rdg wit="#I">"""who has brought you a girdle-cake, and a little pot of butter, sent you by mamma."""</rdg>
+<rdg wit="#J">“I’ve brought you a cake and a little pot of butter from my mother.”</rdg>
+<rdg wit="#K">"""I've brought you some biscuits and a little pot of butter that my mother's sent for you."""</rdg>
+<rdg wit="#L">"""I've brought you a loaf and a little pot of butter that my mother has sent you."""</rdg>
+<rdg wit="#M">"bringing you a biscuit and a little pot of butter that my mother is sending you."""</rdg>
+<rdg wit="#N">‘and I’ve brought you a bun and a little pot of butter that Mummy has sent.’</rdg>
+<rdg wit="#O">“with a galette and a small jar of butter from my mother.”</rdg>
+<rdg wit="#P">"""And I'm bringing you some cake and a little pot of butter sent by my mother."""</rdg>
+<rdg wit="#Q">“who’s bringing you a flat cake and a little jar of butter that my Mother is sending you.”</rdg>
+</app><app>
+<rdg wit="#A">--</rdg>
+<lem>--</lem>
+<rdg wit="#C">--</rdg>
+<rdg wit="#D">--</rdg>
+<rdg wit="#E">--</rdg>
+<rdg wit="#F">--</rdg>
+<rdg wit="#G">--</rdg>
+<rdg wit="#H">Making nosegays of the wild flowers'</rdg>
+<rdg wit="#I">--</rdg>
+<rdg wit="#J">--</rdg>
+<rdg wit="#K">--</rdg>
+<rdg wit="#L">--</rdg>
+<rdg wit="#M">--</rdg>
+<rdg wit="#N">--</rdg>
+<rdg wit="#O">--</rdg>
+<rdg wit="#P">--</rdg>
+<rdg wit="#Q">--</rdg>
+</app><app>
+<rdg wit="#A">La bonne mère grand qui était dans son lit</rdg>
+<lem>La bonne Mère-grand qui était dans son lit</lem>
+<rdg wit="#C">"The good grandmother, who was in bed,"</rdg>
+<rdg wit="#D">"The good grand-mother, who was in bed,"</rdg>
+<rdg wit="#E">"But she could not rise, being a Bed"</rdg>
+<rdg wit="#F">"The good grandmother, who was in bed,"</rdg>
+<rdg wit="#G">"The good grandmother, who was in bed,"</rdg>
+<rdg wit="#H">"The worthy grandmother was in bed,"</rdg>
+<rdg wit="#I">"The good grand-mother, who was in bed,"</rdg>
+<rdg wit="#J">"The grandmother, who was in bed"</rdg>
+<rdg wit="#K">"The good grandmother, who was in her bed"</rdg>
+<rdg wit="#L">"The kindly grandmother, who was in bed"</rdg>
+<rdg wit="#M">"Her good grandmother, who was in bed"</rdg>
+<rdg wit="#N">"The kind grandmother, who was in bed"</rdg>
+<rdg wit="#O">"The old grandmother, who stayed in her bed"</rdg>
+<rdg wit="#P">"The dear grandmother, who was in bed"</rdg>
+<rdg wit="#Q">"The good Granny, who was in her bed"</rdg>
+</app><app>
+<rdg wit="#A">parce qu’elle se trouvait un peu mal</rdg>
+<lem>"à cause qu'elle se trouvait un peu mal,"</lem>
+<rdg wit="#C">"because she found herself somewhat ill,"</rdg>
+<rdg wit="#D">"because she found herself somewhat ill,"</rdg>
+<rdg wit="#E">very sick.</rdg>
+<rdg wit="#F">"because she was somewhat ill,"</rdg>
+<rdg wit="#G">"because she was somewhat ill,"</rdg>
+<rdg wit="#H">"not being very well,"</rdg>
+<rdg wit="#I">"because she found herself somewhat ill,"</rdg>
+<rdg wit="#J">"because she was feeling rather poorly,"</rdg>
+<rdg wit="#K">"because she was not feeling well,"</rdg>
+<rdg wit="#L">"as she wasn't well,"</rdg>
+<rdg wit="#M">"because she felt somewhat poorly,"</rdg>
+<rdg wit="#N">"because she was not feeling very well,"</rdg>
+<rdg wit="#O">"because she did not feel well,"</rdg>
+<rdg wit="#P">"because she was not feeling well,"</rdg>
+<rdg wit="#Q">"‘cause she was feeling a bit ill,"</rdg>
+</app><app>
+<rdg wit="#A">"lui cria,"</rdg>
+<lem>"lui cria,"</lem>
+<rdg wit="#C">"cried out,"</rdg>
+<rdg wit="#D">"cried out,"</rdg>
+<rdg wit="#E">"Well, said she,"</rdg>
+<rdg wit="#F">cried out:</rdg>
+<rdg wit="#G">cried out: —</rdg>
+<rdg wit="#H">and cried out to him:</rdg>
+<rdg wit="#I">cry'd out:</rdg>
+<rdg wit="#J">called out:</rdg>
+<rdg wit="#K">"cried out to him,"</rdg>
+<rdg wit="#L">"called out to him,"</rdg>
+<rdg wit="#M">shouted:</rdg>
+<rdg wit="#N">called out:</rdg>
+<rdg wit="#O">called out:</rdg>
+<rdg wit="#P">called out:</rdg>
+<rdg wit="#Q">cried out to her:</rdg>
+</app><app>
+<rdg wit="#A">"tire la chevillette,"</rdg>
+<lem>"tire la chevillette,"</lem>
+<rdg wit="#C">"""Pull the bobbin,"</rdg>
+<rdg wit="#D">"Pull the bobbin,"</rdg>
+<rdg wit="#E">"pull the latch,"</rdg>
+<rdg wit="#F">"""Pull the bobbin,"</rdg>
+<rdg wit="#G">"""Pull the bobbin,"</rdg>
+<rdg wit="#H">Pull out the peg</rdg>
+<rdg wit="#I">"""Pull the peg,"</rdg>
+<rdg wit="#J">Pull the catch</rdg>
+<rdg wit="#K">"""Pull the bobbin,"</rdg>
+<rdg wit="#L">"""Pull the handle,"</rdg>
+<rdg wit="#M">"""Pull the little peg,"</rdg>
+<rdg wit="#N">"‘Draw the peg back,"</rdg>
+<rdg wit="#O">"“Pull the pin,"</rdg>
+<rdg wit="#P">"""Pull the bolt"</rdg>
+<rdg wit="#Q">"“Pull the little peg,"</rdg>
+</app><app>
+<rdg wit="#A">"la bobinette cherra,"</rdg>
+<lem>"la bobinette cher[r]a,"</lem>
+<rdg wit="#C">"and the latch will go up."""</rdg>
+<rdg wit="#D">and the latch will go up.</rdg>
+<rdg wit="#E">& come in.</rdg>
+<rdg wit="#F">"and the latch will go up."""</rdg>
+<rdg wit="#G">"and the latch will go up."""</rdg>
+<rdg wit="#H">and the latch will fall.'</rdg>
+<rdg wit="#I">"and the bolt will fall."""</rdg>
+<rdg wit="#J">and you'll loose the latch.'</rdg>
+<rdg wit="#K">and the latch will fall.'</rdg>
+<rdg wit="#L">"the latch will give."""</rdg>
+<rdg wit="#M">"and the little latch will open."""</rdg>
+<rdg wit="#N">and the bar will fall.’</rdg>
+<rdg wit="#O">loose the latch.”</rdg>
+<rdg wit="#P">and the latch will open.</rdg>
+<rdg wit="#Q">the little spool will drop.”</rdg>
+</app><app>
+<rdg wit="#A">le Loup tira la chevillette</rdg>
+<lem>"le Loup tira la chevillette,"</lem>
+<rdg wit="#C">"The Wolfe pull’d the bobbin,"</rdg>
+<rdg wit="#D">"The Wolf pulled the bobbin,"</rdg>
+<rdg wit="#E">"He pulled the latch,"</rdg>
+<rdg wit="#F">"The Wolf pulled the bobbin,"</rdg>
+<rdg wit="#G">"The Wolf pulled the bobbin,"</rdg>
+<rdg wit="#H">The Wolf drew out the peg</rdg>
+<rdg wit="#I">"The Wolf pull'd the peg,"</rdg>
+<rdg wit="#J">The wolf pulled the catch</rdg>
+<rdg wit="#K">"The wolf pulled the bobbin,"</rdg>
+<rdg wit="#L">The wolf pulled the handle</rdg>
+<rdg wit="#M">"The wolf pulled on the peg,"</rdg>
+<rdg wit="#N">The Wolf drew the peg back</rdg>
+<rdg wit="#O">The wolf pulled the pin</rdg>
+<rdg wit="#P">"The wolf pulled the bolt,"</rdg>
+<rdg wit="#Q">"The Wolf pulled the little peg,"</rdg>
+</app><app>
+<rdg wit="#A">"et la porte s’ouvrit,"</rdg>
+<lem>et la porte s'ouvrit.</lem>
+<rdg wit="#C">"and the door open’d,"</rdg>
+<rdg wit="#D">"and the door opened,"</rdg>
+<rdg wit="#E">& the door open’d.</rdg>
+<rdg wit="#F">"and the door opened,"</rdg>
+<rdg wit="#G">and the door opened.</rdg>
+<rdg wit="#H">and the door flew open.</rdg>
+<rdg wit="#I">"and the door opened,"</rdg>
+<rdg wit="#J">and the door opened.</rdg>
+<rdg wit="#K">and the door opened.</rdg>
+<rdg wit="#L">and the door opened.</rdg>
+<rdg wit="#M">and the door opened.</rdg>
+<rdg wit="#N">and the door opened.</rdg>
+<rdg wit="#O">and the door opened.</rdg>
+<rdg wit="#P">and the door opened wide.</rdg>
+<rdg wit="#Q">and the door opened.</rdg>
+</app><app>
+<rdg wit="#A">il se jeta aussitôt sur la bonne femme</rdg>
+<lem>"Il se jeta sur la bonne femme,"</lem>
+<rdg wit="#C">"upon which he fell upon the good woman,"</rdg>
+<rdg wit="#D">"and then presently he fell upon the good woman,"</rdg>
+<rdg wit="#E">He fell immediately upon the poor Wooman</rdg>
+<rdg wit="#F">and then presently he fell upon the good woman</rdg>
+<rdg wit="#G">He fell upon the good woman</rdg>
+<rdg wit="#H">Then he sprang upon the poor old lady</rdg>
+<rdg wit="#I">"and then presently he fell upon the good woman,"</rdg>
+<rdg wit="#J">He sprang on the old lady</rdg>
+<rdg wit="#K">He pounced on the good woman</rdg>
+<rdg wit="#L">He flung himself on the good woman </rdg>
+<rdg wit="#M">He pounced on the good woman</rdg>
+<rdg wit="#N">"He flung himself on the old lady,"</rdg>
+<rdg wit="#O">He threw himself at the old woman</rdg>
+<rdg wit="#P">He threw himself on the good woman</rdg>
+<rdg wit="#Q">He threw himself on the good woman</rdg>
+</app><app>
+<rdg wit="#A">"et la dévora en moins de rien,"</rdg>
+<lem>et la dévora en moins de rien ;</lem>
+<rdg wit="#C">and ate her up in the tenth part of a moment;</rdg>
+<rdg wit="#D">and eat her up in a moment;</rdg>
+<rdg wit="#E">"& ate her up to the Bones,"</rdg>
+<rdg wit="#F">"and ate her up in a moment,"</rdg>
+<rdg wit="#G">"and ate her up in no time,"</rdg>
+<rdg wit="#H">"and ate her up in less than no time,"</rdg>
+<rdg wit="#I">and ate her up in a moment;</rdg>
+<rdg wit="#J">"and devoured her in a twinkling,"</rdg>
+<rdg wit="#K">"and devoured her quicker than a wink,"</rdg>
+<rdg wit="#L">"and gobbled her up,"</rdg>
+<rdg wit="#M">"and devoured her in no time at all,"</rdg>
+<rdg wit="#N">"and ate her all up in less than a moment,"</rdg>
+<rdg wit="#O">and devoured her in a flash</rdg>
+<rdg wit="#P">"and devoured her in no rime,"</rdg>
+<rdg wit="#Q">"and devoured her in no time,"</rdg>
+</app><app>
+<rdg wit="#A">car il y avait trois jours qu’il n’avait mangé.</rdg>
+<lem>car il y avait plus de trois jours qu'il n'avait mangé.</lem>
+<rdg wit="#C">for he had eaten nothing for above three days before.</rdg>
+<rdg wit="#D">for it was above three days that he had not touched a bit.</rdg>
+<rdg wit="#E">"for he was very hungry, & had been three days a fasting."</rdg>
+<rdg wit="#F">for it was above three days that he had not touched a bit.</rdg>
+<rdg wit="#G">for he had not eaten anything for more than three days.</rdg>
+<rdg wit="#H">for he had been more than three days without food.</rdg>
+<rdg wit="#I">for it was above three days that he had not touched a bit.</rdg>
+<rdg wit="#J">for he had had nothing to eat for over three days.</rdg>
+<rdg wit="#K">for it had been more than three days since he had eaten last.</rdg>
+<rdg wit="#L">for it was more than three days since he had eaten.</rdg>
+<rdg wit="#M">for he hadn't eaten for over three days.</rdg>
+<rdg wit="#N">because he had not had a meal for more than three days.</rdg>
+<rdg wit="#O">because he had not eaten for three days.</rdg>
+<rdg wit="#P">for he had eaten nothing in the last three days.</rdg>
+<rdg wit="#Q">for it had been more than three days since he had eaten.</rdg>
+</app><app>
+<rdg wit="#A">Ensuite il ferma la porte</rdg>
+<lem>"Ensuite il ferma la porte,"</lem>
+<rdg wit="#C">"After that, he shut the door,"</rdg>
+<rdg wit="#D">"He then shut the door,"</rdg>
+<rdg wit="#E">"After that sorry meal,"</rdg>
+<rdg wit="#F">He then shut the door</rdg>
+<rdg wit="#G">"He then shut the door,"</rdg>
+<rdg wit="#H">"After that he shut the door,"</rdg>
+<rdg wit="#I">"He then shut the door,"</rdg>
+<rdg wit="#J">Then he shut the door</rdg>
+<rdg wit="#K">After that he closed the door</rdg>
+<rdg wit="#L">Then he closed the door</rdg>
+<rdg wit="#M">Then he locked the door</rdg>
+<rdg wit="#N">"Then he shut the door,"</rdg>
+<rdg wit="#O">Next he closed the door</rdg>
+<rdg wit="#P">Then he closed the door</rdg>
+<rdg wit="#Q">Then he closed the door</rdg>
+</app><app>
+<rdg wit="#A">"et s’alla coucher dans le lit de la mère grand,"</rdg>
+<lem>"et s'alla coucher dans le lit de la Mère-grand,"</lem>
+<rdg wit="#C">"and went into the grand-mother's bed,"</rdg>
+<rdg wit="#D">"and went into the grand-mother's bed,"</rdg>
+<rdg wit="#E">"he layd him self in the bed,"</rdg>
+<rdg wit="#F">"and went into the grandmother's bed,"</rdg>
+<rdg wit="#G">"went into the grandmother's bed,"</rdg>
+<rdg wit="#H">"lay down in the grand-mother's bed,"</rdg>
+<rdg wit="#I">"and went into the grand-mother's bed,"</rdg>
+<rdg wit="#J">and got into the grandmother's bed</rdg>
+<rdg wit="#K">and lay down in the grandmother's bed</rdg>
+<rdg wit="#L">and tucked himself up in the grandmother's bed</rdg>
+<rdg wit="#M">and lay down in the grandmother's bed</rdg>
+<rdg wit="#N">"went to lie down in the grandmother’s bed,"</rdg>
+<rdg wit="#O">and lay down in the grandmother’s bed</rdg>
+<rdg wit="#P">"and lay down on Grandmother's bed,"</rdg>
+<rdg wit="#Q">"and went to get into the Granny’s bed,"</rdg>
+</app><app>
+<rdg wit="#A">en attendant le petit chaperon rouge</rdg>
+<lem>"en attendant le petit chaperon rouge,"</lem>
+<rdg wit="#C">"expecting the little red Riding-Hood,"</rdg>
+<rdg wit="#D">"expecting Little Red Riding-Hood,"</rdg>
+<rdg wit="#E">& there waited for Pretty Miss Red Cap.</rdg>
+<rdg wit="#F">"expecting Little Red Riding-Hood,"</rdg>
+<rdg wit="#G">"and waited for Little Red Riding-hood,"</rdg>
+<rdg wit="#H">and waited for Little Red Riding Hood.</rdg>
+<rdg wit="#I">"expecting Little Red Riding-Hood,"</rdg>
+<rdg wit="#J">to wait for Little Red Riding-Hood.</rdg>
+<rdg wit="#K">"to wait for Little Red Riding Hood,"</rdg>
+<rdg wit="#L">"to wait for Little Red Riding Hood,"</rdg>
+<rdg wit="#M">"to wait for Little Red Hood,"</rdg>
+<rdg wit="#N">and waited for Little Red Riding-Hood.</rdg>
+<rdg wit="#O">to wait for the little red tippet.</rdg>
+<rdg wit="#P">"waiting for Little Red Riding Hood,"</rdg>
+<rdg wit="#Q">"while waiting for the little red hood,"</rdg>
+</app><app>
+<rdg wit="#A">qui un moment après vint heurter à la porte</rdg>
+<lem>qui quelque temps après vint heurter à la porte.</lem>
+<rdg wit="#C">"who came some time afterwards, and knock'd at the door"</rdg>
+<rdg wit="#D">"who came some time afterwards, and knocked at the door,"</rdg>
+<rdg wit="#E">"At last she came, & knocked,"</rdg>
+<rdg wit="#F">"who came some time afterward and knocked at the door —,"</rdg>
+<rdg wit="#G">who came sometime afterward and knocked at the door—</rdg>
+<rdg wit="#H">Presently she came and knocked.</rdg>
+<rdg wit="#I">"who came some time afterwards, and knock'd at the door,"</rdg>
+<rdg wit="#J">Presently she arrived and knocked at the door:</rdg>
+<rdg wit="#K">who after a while came knocking at the door.</rdg>
+<rdg wit="#L">"who, shortly afterward, came and knocked at the door:"</rdg>
+<rdg wit="#M">"who knocked at the door,"</rdg>
+<rdg wit="#N">"In a little while she came, and knocked on the door,"</rdg>
+<rdg wit="#O">"A little while later, she came knocking at the door:"</rdg>
+<rdg wit="#P">"who, before long, came knocking at the door:"</rdg>
+<rdg wit="#Q">who some time later came and rapped at the door.</rdg>
+</app><app>
+<rdg wit="#A">toc toc</rdg>
+<lem>"Toc, toc :"</lem>
+<rdg wit="#C">"toc toc,"</rdg>
+<rdg wit="#D">"tap, tap."</rdg>
+<rdg wit="#E">Tock. Tock.</rdg>
+<rdg wit="#F">tap tap.</rdg>
+<rdg wit="#G">"tap, tap, tap."</rdg>
+<rdg wit="#H">Toe Toe.</rdg>
+<rdg wit="#I">"tap, tap."</rdg>
+<rdg wit="#J">rat/a/tat.</rdg>
+<rdg wit="#K">"""Tick, tock."""</rdg>
+<rdg wit="#L">Rat! Tat!</rdg>
+<rdg wit="#M">"""Rap, rap,"" not long afterward."</rdg>
+<rdg wit="#N">rat-a-tat-tat!</rdg>
+<rdg wit="#O">"knock, knock."</rdg>
+<rdg wit="#P">Rat-a-tat-tat.</rdg>
+<rdg wit="#Q">"Knock, knock."</rdg>
+</app><app>
+<rdg wit="#A">qui est là ?</rdg>
+<lem>qui est là ?</lem>
+<rdg wit="#C">Who's there?</rdg>
+<rdg wit="#D">Who's there?</rdg>
+<rdg wit="#E">"Who’s there,"</rdg>
+<rdg wit="#F">"""Who's there?"""</rdg>
+<rdg wit="#G">"""Who's there?"""</rdg>
+<rdg wit="#H">Who is there?'</rdg>
+<rdg wit="#I">"""Who's there?"""</rdg>
+<rdg wit="#J">Who's there?'</rdg>
+<rdg wit="#K">"""Who's there?"""</rdg>
+<rdg wit="#L">"""Who's there?"""</rdg>
+<rdg wit="#M">"""Who is it?"""</rdg>
+<rdg wit="#N">‘Who is it?’</rdg>
+<rdg wit="#O">“Who’s there?”</rdg>
+<rdg wit="#P">"""Who's there?"""</rdg>
+<rdg wit="#Q">“Who’s there?”</rdg>
+</app><app>
+<rdg wit="#A">--</rdg>
+<lem>--</lem>
+<rdg wit="#C">--</rdg>
+<rdg wit="#D">--</rdg>
+<rdg wit="#E">said she.</rdg>
+<rdg wit="#F">--</rdg>
+<rdg wit="#G">called the Wolf.</rdg>
+<rdg wit="#H">--</rdg>
+<rdg wit="#I">--</rdg>
+<rdg wit="#J">--</rdg>
+<rdg wit="#K">--</rdg>
+<rdg wit="#L">--</rdg>
+<rdg wit="#M">--</rdg>
+<rdg wit="#N">--</rdg>
+<rdg wit="#O">--</rdg>
+<rdg wit="#P">--</rdg>
+<rdg wit="#Q">--</rdg>
+</app><app>
+<rdg wit="#A">"Le petit chaperon rouge qui entendit la grosse voix du Loup eut peur d’abord,"</rdg>
+<lem>"Le petit chaperon rouge qui entendit la grosse voix du Loup, eut peur d'abord,"</lem>
+<rdg wit="#C">"The Little red Riding-Hood, who hearing the big voice of the Wolfe, was at first afraid;"</rdg>
+<rdg wit="#D">"Little Red Riding-Hood, hearing the big voice of the Wolf was at first afraid;"</rdg>
+<rdg wit="#E">"At first he horseness of the voice frightened Pretty Miss,"</rdg>
+<rdg wit="#F">"Little Red Riding-Hood, hearing the big voice of the Wolf, was at first afraid;"</rdg>
+<rdg wit="#G">"Little Red Riding-hood, hearing the big voice of the Wolf, was at first afraid;"</rdg>
+<rdg wit="#H">"Now Little Red Riding Hood on hearing the Wolf's voice was at first frightened,"</rdg>
+<rdg wit="#I">"Little Red Riding-Hood, hearing the big voice of the Wolf, was at first afraid;"</rdg>
+<rdg wit="#J">"At first Little Red Riding-Hood was afraid when she heard the gruff voice of the wolf,"</rdg>
+<rdg wit="#K">"When she heard the gruff voice of the wolf, Little Red Riding Hood was scared at first,"</rdg>
+<rdg wit="#L">"When Little Red Riding Hood heard the wolf's hoarse voice, she was afraid at first,"</rdg>
+<rdg wit="#M">"Little Red Hood, hearing the wolf’s husky voice, was frightened at first,"</rdg>
+<rdg wit="#N">"Little Red Riding-Hood, hearing the Wolf’s gruff voice, was frightened at first,"</rdg>
+<rdg wit="#O">"The little red tippet heard the wolf’s gruff voice and was afraid at first,"</rdg>
+<rdg wit="#P">"Little Red Riding Hood was afraid at first when she heard the gruff voice of the wolf,"</rdg>
+<rdg wit="#Q">"The little red hood, who heard the big voice of the Wolf, was frightened at first,"</rdg>
+</app><app>
+<rdg wit="#A">"mais croyant que sa mère grand était enrhumée,"</rdg>
+<lem>"mais croyant que sa Mère-grand était enrhumée,"</lem>
+<rdg wit="#C">"but believing her grandmother had got a cold,"</rdg>
+<rdg wit="#D">"but believing her grand-mother had got a cold,"</rdg>
+<rdg wit="#E">"but then thinking that the old Wooman might have taken a Cold,"</rdg>
+<rdg wit="#F">but believing her grandmother had got a cold</rdg>
+<rdg wit="#G">"but thinking her grandmother had a cold,"</rdg>
+<rdg wit="#H">"but thinking that her grandmother had a bad cold,"</rdg>
+<rdg wit="#I">"but believing her grand-mother had got a cold,"</rdg>
+<rdg wit="#J">"but then she thought that her grandmother must have a cold,"</rdg>
+<rdg wit="#K">but she thought her grandmother had a cold</rdg>
+<rdg wit="#L">"but, thinking that her grandmother must have a cold,"</rdg>
+<rdg wit="#M">"but, thinking that her grandmother had a cold,"</rdg>
+<rdg wit="#N">"but, believing that her grandmother had a cold,"</rdg>
+<rdg wit="#O">but she figured her grandmother must have gotten the flu</rdg>
+<rdg wit="#P">"but thinking that her grandmother must have caught cold,"</rdg>
+<rdg wit="#Q">"but believing that her Granny had a cold,"</rdg>
+</app><app>
+<rdg wit="#A">--</rdg>
+<lem>--</lem>
+<rdg wit="#C">"and was grown hoarse,"</rdg>
+<rdg wit="#D">"and was hoarse,"</rdg>
+<rdg wit="#E">--</rdg>
+<rdg wit="#F">"and was hoarse,"</rdg>
+<rdg wit="#G">--</rdg>
+<rdg wit="#H">--</rdg>
+<rdg wit="#I">"and was hoarse,"</rdg>
+<rdg wit="#J">--</rdg>
+<rdg wit="#K">--</rdg>
+<rdg wit="#L">--</rdg>
+<rdg wit="#M">--</rdg>
+<rdg wit="#N">--</rdg>
+<rdg wit="#O">--</rdg>
+<rdg wit="#P">--</rdg>
+<rdg wit="#Q">--</rdg>
+</app><app>
+<rdg wit="#A">"répondit,"</rdg>
+<lem>"répondit,"</lem>
+<rdg wit="#C">"said,"</rdg>
+<rdg wit="#D">"answered,"</rdg>
+<rdg wit="#E">"j am said she,"</rdg>
+<rdg wit="#F">answered:</rdg>
+<rdg wit="#G">answered: —</rdg>
+<rdg wit="#H">she replied:</rdg>
+<rdg wit="#I">answered:</rdg>
+<rdg wit="#J">so she answered:</rdg>
+<rdg wit="#K">"and responded,"</rdg>
+<rdg wit="#L">"she replied,"</rdg>
+<rdg wit="#M">answered:</rdg>
+<rdg wit="#N">she answered:</rdg>
+<rdg wit="#O">"and answered,"</rdg>
+<rdg wit="#P">she said:</rdg>
+<rdg wit="#Q">answered:</rdg>
+</app><app>
+<rdg wit="#A">c’est votre fille le petit chaperon rouge</rdg>
+<lem>"c'est votre fille le petit chaperon rouge,"</lem>
+<rdg wit="#C">"""It is your grandaughter, The little red Riding-Hood,"</rdg>
+<rdg wit="#D">"Tis your grand-child, Little Red Riding-Hood,"</rdg>
+<rdg wit="#E">"Your Daughter Red Cap,"</rdg>
+<rdg wit="#F">""" 'Tis your grandchild, Little Red Riding-Hood,"</rdg>
+<rdg wit="#G">"""'Tis your grandchild, Little Red Riding-hood,"</rdg>
+<rdg wit="#H">"It is your little daughter, Red Riding Hood,"</rdg>
+<rdg wit="#I">"""'Tis your grand-child, Little Red Riding-Hood,"</rdg>
+<rdg wit="#J">"It's your granddaughter, Little Red Riding-Hood."</rdg>
+<rdg wit="#K">"""It's your granddaughter, Little Red Riding Hood."</rdg>
+<rdg wit="#L">"""It's your granddaughter, Little Red Riding Hood."</rdg>
+<rdg wit="#M">"“It’s your granddaughter, Little Red Hood,"</rdg>
+<rdg wit="#N">"‘It’s me, your granddaughter, Little Red Riding-Hood,"</rdg>
+<rdg wit="#O">"“It’s your granddaughter, the little red tippet,"</rdg>
+<rdg wit="#P">"""It's your granddaughter. Little Red Riding Hood,"</rdg>
+<rdg wit="#Q">"“It’s your girl, the little red hood,"</rdg>
+</app><app>
+<rdg wit="#A">qui vous apporte une galette</rdg>
+<lem>qui vous apporte une galette</lem>
+<rdg wit="#C">"who has brought you a custard pye,"</rdg>
+<rdg wit="#D">"who has brought you a custard,"</rdg>
+<rdg wit="#E">"with a Cake,"</rdg>
+<rdg wit="#F">who has brought you a custard</rdg>
+<rdg wit="#G">who has brought you a custard</rdg>
+<rdg wit="#H">and I bring you a cake</rdg>
+<rdg wit="#I">"who has brought you a girdle-cake,"</rdg>
+<rdg wit="#J">I've brought you a cake</rdg>
+<rdg wit="#K">I’ve brought you some biscuits</rdg>
+<rdg wit="#L">I've brought you a loaf</rdg>
+<rdg wit="#M">bringing you a biscuit</rdg>
+<rdg wit="#N">and I’ve brought you a bun</rdg>
+<rdg wit="#O">with a galette</rdg>
+<rdg wit="#P">and I'm bringing you some cake</rdg>
+<rdg wit="#Q">who’s bringing you a flat cake</rdg>
+</app><app>
+<rdg wit="#A">et un petit pot de beurre que ma mère vous envoie.</rdg>
+<lem>et un petit pot de beurre que ma Mère vous envoie.</lem>
+<rdg wit="#C">"and a little pot of butter mamma sends you."""</rdg>
+<rdg wit="#D">"and a little pot of butter, mamma sends you."</rdg>
+<rdg wit="#E">& a little pot of Butter from my Mama.</rdg>
+<rdg wit="#F">"and a little pot of butter mamma sends you."""</rdg>
+<rdg wit="#G">"and a little pot of butter sent to you by mamma."""</rdg>
+<rdg wit="#H">and a little pot of butter from my mother.'</rdg>
+<rdg wit="#I">"and a little pot of butter, mamma sends you."""</rdg>
+<rdg wit="#J">and a little pot of butter from my mother.'</rdg>
+<rdg wit="#K">and a little pot of butter that my mother's sent for you.'</rdg>
+<rdg wit="#L">"and a little pot of butter that my mother has sent you."""</rdg>
+<rdg wit="#M">and a little pot of butter that my mother is sending you.”</rdg>
+<rdg wit="#N">and a little pot of butter that Mummy has sent.’</rdg>
+<rdg wit="#O">and a small jar of butter from my mother.”</rdg>
+<rdg wit="#P">"and a little pot of butter sent by my mother."""</rdg>
+<rdg wit="#Q">and a little jar of butter that my Mother is sending you.”</rdg>
+</app><app>
+<rdg wit="#A">"Le loup lui cria en adoucissant un peu sa voix,"</rdg>
+<lem>"Le Loup lui cria, en adoucissant un peu sa voix ;"</lem>
+<rdg wit="#C">"The Wolfe cried out to her, softening his voice as much as he could,"</rdg>
+<rdg wit="#D">"The Wolf cried out to her, softening his voice as much as he could,"</rdg>
+<rdg wit="#E">--</rdg>
+<rdg wit="#F">"The Wolf cried out to her, softening his voice as much as he could:"</rdg>
+<rdg wit="#G">"The Wolf cried out to her, softening his voice a little: —"</rdg>
+<rdg wit="#H">"Softening his voice, the Wolf called out to her:"</rdg>
+<rdg wit="#I">"softening his voice as much as he could,"</rdg>
+<rdg wit="#J">the wolf called out:</rdg>
+<rdg wit="#K">"The wolf softened his voice and cried out to her,"</rdg>
+<rdg wit="#L">"The wolf called out, softening his voice a little,"</rdg>
+<rdg wit="#M">"The wolf shouted to her, softening his voice a little:"</rdg>
+<rdg wit="#N">"Making his voice a little softer, the Wolf called out:"</rdg>
+<rdg wit="#O">"Softening his voice a little, the wolf called out,"</rdg>
+<rdg wit="#P">The wolf tried to soften his voice as he called out to her: </rdg>
+<rdg wit="#Q">"The Wolf shouted out to her, softening his voice a bit:"</rdg>
+</app><app>
+<rdg wit="#A">"tire la bobinette,"</rdg>
+<lem>"tire la chevillette,"</lem>
+<rdg wit="#C">"""Pull the bobbin,"</rdg>
+<rdg wit="#D">"Pull the bobbin,"</rdg>
+<rdg wit="#E">"Pull the latch, said he,"</rdg>
+<rdg wit="#F">"""Pull the bobbin,"</rdg>
+<rdg wit="#G">"""Pull the bobbin,"</rdg>
+<rdg wit="#H">Pull out the peg</rdg>
+<rdg wit="#I">"""Pull the peg,"</rdg>
+<rdg wit="#J">Pull the catch</rdg>
+<rdg wit="#K">"""Pull the bobbin,"</rdg>
+<rdg wit="#L">"""Pull the handle,"</rdg>
+<rdg wit="#M">"""Pull the little peg,"</rdg>
+<rdg wit="#N">"‘Draw the peg back,"</rdg>
+<rdg wit="#O">"“Pull the pin,"</rdg>
+<rdg wit="#P">"""Pull the bolt"</rdg>
+<rdg wit="#Q">"“Pull the little peg,"</rdg>
+</app><app>
+<rdg wit="#A">la chevillette cherra</rdg>
+<lem>la bobinette cher[r]a.</lem>
+<rdg wit="#C">"and the latch will go up."""</rdg>
+<rdg wit="#D">and the latch will go up.</rdg>
+<rdg wit="#E">& come in.</rdg>
+<rdg wit="#F">"and the latch will go up."""</rdg>
+<rdg wit="#G">"and the latch will go up."""</rdg>
+<rdg wit="#H">and the latch will fall.'</rdg>
+<rdg wit="#I">"and the bolt will fall."""</rdg>
+<rdg wit="#J">and you'll loose the latch.'</rdg>
+<rdg wit="#K">"and the latch will fall."""</rdg>
+<rdg wit="#L">"the latch will give."""</rdg>
+<rdg wit="#M">"and the little latch will open."""</rdg>
+<rdg wit="#N">and the bar will fall.’</rdg>
+<rdg wit="#O">loose the latch.”</rdg>
+<rdg wit="#P">and the latch will open.'</rdg>
+<rdg wit="#Q">the little spool will drop.”</rdg>
+</app><app>
+<rdg wit="#A">le petit chaperon rouge tira la chevillette</rdg>
+<lem>"Le petit chaperon rouge tira la chevillette,"</lem>
+<rdg wit="#C">"The little red Riding-Hood pull’d the bobbin,"</rdg>
+<rdg wit="#D">"Little Red Riding-Hood pulled the bobbin,"</rdg>
+<rdg wit="#E">"She pulled the latch,"</rdg>
+<rdg wit="#F">"Little Red Riding-Hood pulled the bobbin,"</rdg>
+<rdg wit="#G">"Little Red Riding-hood pulled the bobbin,"</rdg>
+<rdg wit="#H">Little Red Riding Hood drew out the peg</rdg>
+<rdg wit="#I">"Little Red Riding-Hood pulled the peg,"</rdg>
+<rdg wit="#J">Little Red Riding-Hood pulled the catch</rdg>
+<rdg wit="#K">"Little Red Riding Hood pulled the bobbin,"</rdg>
+<rdg wit="#L">Little Red Riding Hood pulled the handle</rdg>
+<rdg wit="#M">"Little Red Hood pulled on the peg,"</rdg>
+<rdg wit="#N">Little Red Riding-Hood drew the peg back</rdg>
+<rdg wit="#O">The little red tippet pulled the pin</rdg>
+<rdg wit="#P">"Little Red Riding Hood pulled the bolt,"</rdg>
+<rdg wit="#Q">"The little red hood pulled the little peg,"</rdg>
+</app><app>
+<rdg wit="#A">et la porte de la maison s’ouvrit.</rdg>
+<lem>et la porte s'ouvrit.</lem>
+<rdg wit="#C">and the door opened.</rdg>
+<rdg wit="#D">and the door opened.</rdg>
+<rdg wit="#E">& came in.</rdg>
+<rdg wit="#F">and the door opened.</rdg>
+<rdg wit="#G">and the door opened.</rdg>
+<rdg wit="#H">and the door flew open.</rdg>
+<rdg wit="#I">and the door opened.</rdg>
+<rdg wit="#J">and the door opened.</rdg>
+<rdg wit="#K">and the door opened.</rdg>
+<rdg wit="#L">and the door opened.</rdg>
+<rdg wit="#M">and the door opened.</rdg>
+<rdg wit="#N">and the door opened.</rdg>
+<rdg wit="#O">and the door opened.</rdg>
+<rdg wit="#P">and the door opened wide.</rdg>
+<rdg wit="#Q">and the door opened.</rdg>
+</app><app>
+<rdg wit="#A">Le loup la voyant entrer lui dit de dedans le lit où il se cachait sous la couverture</rdg>
+<lem>"Le Loup la voyant entrer, lui dit en se cachant dans le lit sous la couverture :"</lem>
+<rdg wit="#C">"The Wolfe seeing her come in, said to her, hiding himself under the clothes,"</rdg>
+<rdg wit="#D">"The Wolf seeing her come in, said to her, hiding himself under the bed-cloaths;"</rdg>
+<rdg wit="#E">"The woolf hid himself under the Cloaths, &, said he,"</rdg>
+<rdg wit="#F">"The Wolf, seeing her come in, said to her, hiding himself under the bedclothes:"</rdg>
+<rdg wit="#G">"The Wolf, seeing her come in, said to her, hiding himself under the bedclothes: —"</rdg>
+<rdg wit="#H">"When he saw her enter, the Wolf hid himself in the bed beneath the counterpane."</rdg>
+<rdg wit="#I">"The Wolf seeing her come in, said to her, hiding himself under the bedclothes:"</rdg>
+<rdg wit="#J">"When the wolf saw her coming in, he hid himself under the bedclothes, and said:"</rdg>
+<rdg wit="#K">"Upon seeing her enter, the wolf hid himself under the bedcovers and said to her,"</rdg>
+<rdg wit="#L">"When the wolf saw her come in, he hid under the blankets and said,"</rdg>
+<rdg wit="#M">"The wolf, seeing her come in, hid under the blanket in bed, saying:"</rdg>
+<rdg wit="#N">"When he saw her coming in, the Wolf hid under the bedclothes, and said:"</rdg>
+<rdg wit="#O">"Watching from under the covers as she entered, the wolf said to her,"</rdg>
+<rdg wit="#P">When the wolf saw her come in. he hid under the covers of the bed and said:</rdg>
+<rdg wit="#Q">"The Wolf, seeing her enter, told her while hiding in the bed under the blanket :"</rdg>
+</app><app>
+<rdg wit="#A">mets la galette et le petit pot de beurre sur la huche</rdg>
+<lem>"mets la galette et le petit pot de beurre sur la huche,"</lem>
+<rdg wit="#C">"""Put the custard, and the little pot of butter upon the stool,"</rdg>
+<rdg wit="#D">"Put the custard, and the little pot of butter upon the stool,"</rdg>
+<rdg wit="#E">"set the Cake, & the Butter upon the Shelf,"</rdg>
+<rdg wit="#F">"""Put the custard and the little pot of butter upon the stool,"</rdg>
+<rdg wit="#G">"""Put the custard and the little pot of butter upon the stool,"</rdg>
+<rdg wit="#H">"Put the cake and the little pot of butter on the bin, ' he said,"</rdg>
+<rdg wit="#I">"""Put the cake, and the little pot of butter upon the bread-bin,"</rdg>
+<rdg wit="#J">Put the cake and the little pot of butter on the bread-bin</rdg>
+<rdg wit="#K">"""Put the biscuits and the pot of butter on the bin"</rdg>
+<rdg wit="#L">"""Put the loaf and the little pot of butter in the bread bin"</rdg>
+<rdg wit="#M">"""Put the biscuit and the little pot of butter on the bread bin,"</rdg>
+<rdg wit="#N">"‘Put the bun and the little pot of butter on the chest,"</rdg>
+<rdg wit="#O">“Put the galette and small jar of butter on the hutch</rdg>
+<rdg wit="#P">Put the cakes and the little pot of butter on the bin</rdg>
+<rdg wit="#Q">"“Put the flat cake and the little jar of butter on the chest,"</rdg>
+</app><app>
+<rdg wit="#A">et viens te coucher avec moi.</rdg>
+<lem>et viens te coucher avec moi.</lem>
+<rdg wit="#C">"and come into bed to me."""</rdg>
+<rdg wit="#D">and come and lye down by me.</rdg>
+<rdg wit="#E">& come to bed with me.</rdg>
+<rdg wit="#F">"and come and he down with me."""</rdg>
+<rdg wit="#G">"and come and lie down with me."""</rdg>
+<rdg wit="#H">and come up on the bed with me.'</rdg>
+<rdg wit="#I">"and come and lye down with me."""</rdg>
+<rdg wit="#J">and get into bed with me.'</rdg>
+<rdg wit="#K">"and come lie down beside me."""</rdg>
+<rdg wit="#L">"and come and get into bed with me."""</rdg>
+<rdg wit="#M">"and come in bed with me."""</rdg>
+<rdg wit="#N">and come and get into bed with me.’</rdg>
+<rdg wit="#O">and come lie down with me.”</rdg>
+<rdg wit="#P">"and climb into bed with me."""</rdg>
+<rdg wit="#Q">and come get into bed with me.”</rdg>
+</app><app>
+<rdg wit="#A">Le petit chaperon rouge se déshabille</rdg>
+<lem>"Le petit chaperon rouge se déshabille,"</lem>
+<rdg wit="#C">"The little red Riding-Hood undressed her self,"</rdg>
+<rdg wit="#D">"Little Red Riding-Hood undressed herself,"</rdg>
+<rdg wit="#E">"Pretty Miss Red Cap undressed herself,"</rdg>
+<rdg wit="#F">Little Red Riding-Hood undressed herself</rdg>
+<rdg wit="#G">Little Red Riding-hood undressed herself</rdg>
+<rdg wit="#H">"Little Red Riding Hood took off her clothes,"</rdg>
+<rdg wit="#I">"Little Red Riding-Hood undressed herself,"</rdg>
+<rdg wit="#J">Little Red Riding-Hood undressed</rdg>
+<rdg wit="#K">Little Red Riding Hood undressed</rdg>
+<rdg wit="#L">Little Red Riding Hood got undressed</rdg>
+<rdg wit="#M">Little Red Hood got undressed</rdg>
+<rdg wit="#N">Little Red Riding-Hood undressed</rdg>
+<rdg wit="#O">The little red tippet takes off her clothes</rdg>
+<rdg wit="#P">Little Red Riding Hood took off her clothes</rdg>
+<rdg wit="#Q">"The little red hood gets undressed,"</rdg>
+</app><app>
+<rdg wit="#A">"et s’alla mettre dedans le lit,"</rdg>
+<lem>"et va se mettre dans le lit,"</lem>
+<rdg wit="#C">"and went into bed,"</rdg>
+<rdg wit="#D">and went into bed;</rdg>
+<rdg wit="#E">& went to bed.</rdg>
+<rdg wit="#F">"and went into bed,"</rdg>
+<rdg wit="#G">"and went into bed,"</rdg>
+<rdg wit="#H">but when she climbed up on the bed</rdg>
+<rdg wit="#I">and went into bed;</rdg>
+<rdg wit="#J">"and got into bed,"</rdg>
+<rdg wit="#K">"and got into the bed,"</rdg>
+<rdg wit="#L">"and climbed into bed,"</rdg>
+<rdg wit="#M">"and climbed into bed,"</rdg>
+<rdg wit="#N">"and got into the bed,"</rdg>
+<rdg wit="#O">and goes to get into bed …</rdg>
+<rdg wit="#P">and climbed into the bed.</rdg>
+<rdg wit="#Q">"and goes to get in the bed,"</rdg>
+</app><app>
+<rdg wit="#A">où elle fut bien étonnée de voir</rdg>
+<lem>où elle fut bien étonnée de voir</lem>
+<rdg wit="#C">where she was very much astonished to see</rdg>
+<rdg wit="#D">"where, being greatly amazed to see"</rdg>
+<rdg wit="#E">But then seting how strange</rdg>
+<rdg wit="#F">"where, being greatly amazed to see"</rdg>
+<rdg wit="#G">where she was much surprised to see</rdg>
+<rdg wit="#H">she was astonished to see</rdg>
+<rdg wit="#I">"where, being greatly amazed to see"</rdg>
+<rdg wit="#J">but she was very surprised to see</rdg>
+<rdg wit="#K">where she was quite astonished to see</rdg>
+<rdg wit="#L">where she was most surprised to see</rdg>
+<rdg wit="#M">where she was very surprised</rdg>
+<rdg wit="#N">where she was very surprised to see</rdg>
+<rdg wit="#O">where she was shocked to see</rdg>
+<rdg wit="#P">She was astonished to see</rdg>
+<rdg wit="#Q">where she was quite astonished to see</rdg>
+</app><app>
+<rdg wit="#A">comment sa mère grand était faite en son déshabillé ;</rdg>
+<lem>"comment sa Mère-grand était faite en son déshabillé,"</lem>
+<rdg wit="#C">how her grandmother looked in her night-cloaths:</rdg>
+<rdg wit="#D">"how her grand-mother looked in her night-cloaths,"</rdg>
+<rdg wit="#E">"was the old Woman’s shape when naked,"</rdg>
+<rdg wit="#F">"how her grandmother looked in her nightclothes,"</rdg>
+<rdg wit="#G">how her grandmother looked in her night-clothes.</rdg>
+<rdg wit="#H">how her grandmother looked in her nightgown.</rdg>
+<rdg wit="#I">"how her grand-mother looked in her night-cloaths,"</rdg>
+<rdg wit="#J">how her grandmother looked in her night-clothes.</rdg>
+<rdg wit="#K">how her grandmother appeared in her nightgown.</rdg>
+<rdg wit="#L">what her grandmother was like with nothing on.</rdg>
+<rdg wit="#M">at the way her grandmother looked in her nightclothes.</rdg>
+<rdg wit="#N">"what her grandmother looked like without any clothes on,"</rdg>
+<rdg wit="#O">how her grandmother looked undressed.</rdg>
+<rdg wit="#P">what her grandmother looked like in her nightgown.</rdg>
+<rdg wit="#Q">how her Granny looked in her house dress.</rdg>
+</app><app>
+<rdg wit="#A">Elle lui dit ma mère grand que vous avez de grands bras ?</rdg>
+<lem>"elle lui dit, ma mère-grand que vous avez de grands bras !"</lem>
+<rdg wit="#C">"So she said to her, ""Grandmamma, what great arms you have got!"""</rdg>
+<rdg wit="#D">"said to her, Grand-mamma, what great arms you have got!"</rdg>
+<rdg wit="#E">"Good Grany, said she, what long arms you have!"</rdg>
+<rdg wit="#F">"she said to her:""Grandmamma, what great arms you have got!"""</rdg>
+<rdg wit="#G">"She said to her: — ""Grandmamma, what great arms you have got!"""</rdg>
+<rdg wit="#H">"‘Grandmother dear! ' she exclaimed, ' what big arms you have!'"</rdg>
+<rdg wit="#I">"she said to her:""Grand-mamma, what great arms you have got!"""</rdg>
+<rdg wit="#J">"She said to her:'What big arms you have, grandmother!'"</rdg>
+<rdg wit="#K">"""What big arms you have, grandmother! "" she said to her."</rdg>
+<rdg wit="#L">"She said, ""Grandmother! What big arms you have!"""</rdg>
+<rdg wit="#M">"She said:""Grandmother, what big arms you have!"""</rdg>
+<rdg wit="#N">"and she said: ‘Oh grandmama, what long arms you have!’"</rdg>
+<rdg wit="#O">"She said to her: “Grandma, you have such big arms!”"</rdg>
+<rdg wit="#P">"""Grandmother, "" she said, ""what big arms you have!"""</rdg>
+<rdg wit="#Q">"She said to her: “My granny, what big arms you have!”"</rdg>
+</app><app>
+<rdg wit="#A">c’est pour mieux t’embrasser mon enfant lui dit le Loup.</rdg>
+<lem>"c’est pour mieux t'embrasser,ma fille : "</lem>
+<rdg wit="#C">"""It is the better to embrace thee my pretty child."""</rdg>
+<rdg wit="#D">"That is the better to hug thee, my dear."</rdg>
+<rdg wit="#E">"The better, said he, for to imbrace my pretty Girl."</rdg>
+<rdg wit="#F">"""That is the better to hug thee, my dear."""</rdg>
+<rdg wit="#G">"""That is the better to hug thee, my dear."""</rdg>
+<rdg wit="#H">"The better to embrace you, my child!'"</rdg>
+<rdg wit="#I">"""That is the better to hug thee, my dear."""</rdg>
+<rdg wit="#J">"The better to hug you with, my dear!'"</rdg>
+<rdg wit="#K">"""The better to hug you with, my child."""</rdg>
+<rdg wit="#L">"""All the better to hug you with, my dear!"""</rdg>
+<rdg wit="#M">"""The better to hug you with, granddaughter."""</rdg>
+<rdg wit="#N">"‘All the better to hug you with, my dear.’"</rdg>
+<rdg wit="#O">"“That’s to hug you better, my dear.”"</rdg>
+<rdg wit="#P">"""The better to hug you with, my child."""</rdg>
+<rdg wit="#Q">"“That’s for hugging you better, my girl.”"</rdg>
+</app><app>
+<rdg wit="#A">Ma mère grand que vous avez de grandes jambes ?</rdg>
+<lem>ma mère-grand que vous avez de grandes jambes ?</lem>
+<rdg wit="#C">"""Grandmamma, what great legs you have got!"""</rdg>
+<rdg wit="#D">"Grand-mamma, what great Legs you have got!"</rdg>
+<rdg wit="#E">--</rdg>
+<rdg wit="#F">"""Grandmamma, what great legs you have got!'"</rdg>
+<rdg wit="#G">"""Grandmamma, what great legs you have got!"""</rdg>
+<rdg wit="#H">"Grandmother dear, what big legs you have!'"</rdg>
+<rdg wit="#I">"""Grand-mamma, what great legs you have got!"""</rdg>
+<rdg wit="#J">"What big legs you have, grandmother!'"</rdg>
+<rdg wit="#K">"""What big legs you have, grandmother!"""</rdg>
+<rdg wit="#L">"""Grandmother! What big legs you have!"""</rdg>
+<rdg wit="#M">"""Grandmother, what big legs you have!"""</rdg>
+<rdg wit="#N">"‘Oh grandmama, what long legs you have!’"</rdg>
+<rdg wit="#O">"“Grandma, you have such big legs!”"</rdg>
+<rdg wit="#P">"""Grandmother, what big legs you have!"""</rdg>
+<rdg wit="#Q">"“My granny, what big legs you have!”"</rdg>
+</app><app>
+<rdg wit="#A">c’est pour mieux courir mon enfant :</rdg>
+<lem>c'est pour mieux courir mon enfant :</lem>
+<rdg wit="#C">"""It is to run the better my child."""</rdg>
+<rdg wit="#D">"That is to run the better, my child."</rdg>
+<rdg wit="#E">--</rdg>
+<rdg wit="#F">"""That is to run the better, my child."""</rdg>
+<rdg wit="#G">"""That is to run the better, my child."""</rdg>
+<rdg wit="#H">"The better to run with, my child!'"</rdg>
+<rdg wit="#I">"""That is to run the better, my child."""</rdg>
+<rdg wit="#J">"The better to run with, my child!'"</rdg>
+<rdg wit="#K">"""The better to run with, my child."""</rdg>
+<rdg wit="#L">"""All the better to chase you with, my dear!"""</rdg>
+<rdg wit="#M">"""The better to run with, child."""</rdg>
+<rdg wit="#N">"‘All the better for running with, my dear.’"</rdg>
+<rdg wit="#O">"“That’s to run better, my dear.”"</rdg>
+<rdg wit="#P">"""The better to run with, my child."""</rdg>
+<rdg wit="#Q">"“That’s for running better, my child.”"</rdg>
+</app><app>
+<rdg wit="#A">"Ma mère grand que vous avez de grandes oreilles,"</rdg>
+<lem>ma mère-grand que vous avez de grandes oreilles ?</lem>
+<rdg wit="#C">"""Grandmamma, what great ears you have got!"""</rdg>
+<rdg wit="#D">"Grand-mamma, what great ears you have got!"</rdg>
+<rdg wit="#E">"Good Grany, said she, how lang are your Ears!"</rdg>
+<rdg wit="#F">"""Grandmamma, what great ears you have got!"""</rdg>
+<rdg wit="#G">"""Grandmamma, what great ears you have got!"""</rdg>
+<rdg wit="#H">"Grandmother dear, what big ears you have!'"</rdg>
+<rdg wit="#I">"""Grand-mamma, what great ears you have got!"""</rdg>
+<rdg wit="#J">"What big ears you have, grandmother!'"</rdg>
+<rdg wit="#K">"""What big ears you have, grandmother!"""</rdg>
+<rdg wit="#L">"""Grandmother! What big ears you have!"""</rdg>
+<rdg wit="#M">"""Grandmother, what big ears you have!"""</rdg>
+<rdg wit="#N">"‘Oh grandmama, what big ears you have!’"</rdg>
+<rdg wit="#O">"“Grandma, you have such big ears!”"</rdg>
+<rdg wit="#P">"""Grandmother, what big ears you have!"""</rdg>
+<rdg wit="#Q">"“My granny, what big ears you have!”"</rdg>
+</app><app>
+<rdg wit="#A">c’est pour mieux entendre mon enfant.</rdg>
+<lem>c'est pour mieux écouter mon enfant.</lem>
+<rdg wit="#C">"""It is to hear the better my child."""</rdg>
+<rdg wit="#D">"That is to hear the better, my child."</rdg>
+<rdg wit="#E">"The better said he, for hearing."</rdg>
+<rdg wit="#F">"""That is to hear the better, my child."""</rdg>
+<rdg wit="#G">"""That is to hear the better, my child."""</rdg>
+<rdg wit="#H">"The better to hear with, my child!'"</rdg>
+<rdg wit="#I">"""That is to hear the better, my child."""</rdg>
+<rdg wit="#J">The better to hear with my child!'</rdg>
+<rdg wit="#K">"""The better to hear you with, my child."""</rdg>
+<rdg wit="#L">"""All the better to hear you with, my dear!"""</rdg>
+<rdg wit="#M">"""The better to hear with, child."""</rdg>
+<rdg wit="#N">"‘All the better to hear you with, my dear.’"</rdg>
+<rdg wit="#O">"“That’s to hear better, my dear.”"</rdg>
+<rdg wit="#P">"""The better to hear with, my child."""</rdg>
+<rdg wit="#Q">"“That’s for listening better, my child.”"</rdg>
+</app><app>
+<rdg wit="#A">Ma mère grand que vous avez de grands yeux ?</rdg>
+<lem>Ma mère-grand que vous avez de grands yeux ?</lem>
+<rdg wit="#C">"""Grandmamma, what great eyes you have got!"""</rdg>
+<rdg wit="#D">"Grand-mamma, what great eyes you have got!"</rdg>
+<rdg wit="#E">"Good Grany, said she, how large are your Eyes!"</rdg>
+<rdg wit="#F">"""Grandmamma, what great eyes you have got!"""</rdg>
+<rdg wit="#G">"""Grandmamma, what great eyes you have got!"""</rdg>
+<rdg wit="#H">"Grandmother dear, what big eyes you have!'"</rdg>
+<rdg wit="#I">"""Grand-mamma, what great eyes you have got!"""</rdg>
+<rdg wit="#J">"What big eyes you have, grandmother!'"</rdg>
+<rdg wit="#K">"""What big eyes you have, grandmother!"""</rdg>
+<rdg wit="#L">"""Grandmother! What big eyes you have!"""</rdg>
+<rdg wit="#M">"""Grandmother, what big eyes you have!"""</rdg>
+<rdg wit="#N">"‘Oh grandmama, what big eyes you have!’"</rdg>
+<rdg wit="#O">"“Grandma, you have such big eyes!”"</rdg>
+<rdg wit="#P">"""Grandmother, what big eyes you have!"""</rdg>
+<rdg wit="#Q">"“My granny, what big eyes you have!”"</rdg>
+</app><app>
+<rdg wit="#A">c’est pour mieux voir mon enfant.</rdg>
+<lem>"c'est pour mieux voir, mon enfant."</lem>
+<rdg wit="#C">"""It is to see the better my child."""</rdg>
+<rdg wit="#D">"It is to see the better, my child."</rdg>
+<rdg wit="#E">"Child, said he, the better for to look upon you."</rdg>
+<rdg wit="#F">"""It is to see the better, my child."""</rdg>
+<rdg wit="#G">"""It is to see the better, my child."""</rdg>
+<rdg wit="#H">"The better to see with, my child!'"</rdg>
+<rdg wit="#I">"""It is to see the better, my child."""</rdg>
+<rdg wit="#J">"The better to see with, my child!'"</rdg>
+<rdg wit="#K">"""The better to see you with, my child."""</rdg>
+<rdg wit="#L">"""All the better to see you with, my dear!"""</rdg>
+<rdg wit="#M">"""The better to see with, child."""</rdg>
+<rdg wit="#N">"‘All the better to see you with, my dear.’"</rdg>
+<rdg wit="#O">"“That’s to see better, my dear.”"</rdg>
+<rdg wit="#P">"""The better to see with, my child."""</rdg>
+<rdg wit="#Q">"“That’s for seeing better, my child.”"</rdg>
+</app><app>
+<rdg wit="#A">Ma mère grand que vous avez de grandes dents ?</rdg>
+<lem>Ma mère-grand que vous avez de grandes dents ?</lem>
+<rdg wit="#C">"""Grandmamma, what great teeth you have got!"""</rdg>
+<rdg wit="#D">"Grand-mamma, what great teeth you have got!"</rdg>
+<rdg wit="#E">"Good Grany, said she, how great are your Teeths!"</rdg>
+<rdg wit="#F">"""Grandmamma, what great teeth you have got!"""</rdg>
+<rdg wit="#G">"""Grandmamma, what great teeth you have got!"""</rdg>
+<rdg wit="#H">"Grandmother dear, what big teeth you have!'"</rdg>
+<rdg wit="#I">"""Grand-mamma, what great teeth you have got!"""</rdg>
+<rdg wit="#J">"What big teeth you have, grandmother!'"</rdg>
+<rdg wit="#K">"""What big teeth you have, grandmother!"""</rdg>
+<rdg wit="#L">"""Grandmother! What big teeth you have!"""</rdg>
+<rdg wit="#M">"""Grandmother, what big teeth you have!"""</rdg>
+<rdg wit="#N">"‘Oh grandmama, what great big teeth you have!’"</rdg>
+<rdg wit="#O">"“Grandma, you have such big teeth!”"</rdg>
+<rdg wit="#P">"""Grandmother, what big teeth you have!"""</rdg>
+<rdg wit="#Q">"“My granny, what big teeth you have!”"</rdg>
+</app><app>
+<rdg wit="#A">c’est pour te manger.</rdg>
+<lem>c'est pour te manger.</lem>
+<rdg wit="#C">"""It is to eat thee up."""</rdg>
+<rdg wit="#D">That is to eat thee up.</rdg>
+<rdg wit="#E">"The better said he, for to eat you up,"</rdg>
+<rdg wit="#F">"""That is to eat thee up."""</rdg>
+<rdg wit="#G">"""That is to eat thee up."""</rdg>
+<rdg wit="#H">The better to eat you with!'</rdg>
+<rdg wit="#I">"""That is to eat thee up."""</rdg>
+<rdg wit="#J">They're to eat you with!'</rdg>
+<rdg wit="#K">"""The better eat you with!"""</rdg>
+<rdg wit="#L">"""All the better to eat you with!"""</rdg>
+<rdg wit="#M">"""The better to eat you with!"""</rdg>
+<rdg wit="#N">‘And they are all the better to EAT YOU WITH!’</rdg>
+<rdg wit="#O">“That’s to eat you.”</rdg>
+<rdg wit="#P">"""The better to eat you with!"""</rdg>
+<rdg wit="#Q">“That’s for eating you with.”</rdg>
+</app><app>
+<rdg wit="#A">* En disant ces mots</rdg>
+<lem>"Et en disant ces mots,"</lem>
+<rdg wit="#C">"And upon saying these words,"</rdg>
+<rdg wit="#D">"And, saying these words,"</rdg>
+<rdg wit="#E">"& saying so,"</rdg>
+<rdg wit="#F">"And, saying these words,"</rdg>
+<rdg wit="#G">"And, saying these words,"</rdg>
+<rdg wit="#H">With these words</rdg>
+<rdg wit="#I">"And, saying these words,"</rdg>
+<rdg wit="#J">"So saying,"</rdg>
+<rdg wit="#K">"And upon saying these words,"</rdg>
+<rdg wit="#L">"And with these words,"</rdg>
+<rdg wit="#M">"And saying that,"</rdg>
+<rdg wit="#N">"And as he said these words,"</rdg>
+<rdg wit="#O">"And with those words,"</rdg>
+<rdg wit="#P">"Upon saying these words,"</rdg>
+<rdg wit="#Q">"And saying these words,"</rdg>
+</app><app>
+<rdg wit="#A">le méchant loup mangea le pauvre petit chaperon rouge.</rdg>
+<lem>"ce méchant Loup se jeta sur le petit chaperon rouge, et la mangea."</lem>
+<rdg wit="#C">"this wicked Wolfe fell upon the little Red Riding-Hood, and ate her up."</rdg>
+<rdg wit="#D">"this wicked Wolf fell upon poor Little Red Riding-Hood, and eat her all up."</rdg>
+<rdg wit="#E">fell upon her & devoured Pretty Miss Red Cap.</rdg>
+<rdg wit="#F">"this wicked wolf fell upon Little Red Riding-Hood, and ate her all up."</rdg>
+<rdg wit="#G">"this wicked Wolf fell upon Little Red Riding-hood, and ate her all up."</rdg>
+<rdg wit="#H">the wicked Wolf leapt upon Little Red Riding Hood and gobbled her up.</rdg>
+<rdg wit="#I">"this wicked Wolf fell upon poor Little Red Riding-Hood, and ate her all up."</rdg>
+<rdg wit="#J">that wicked wolf sprang on Little Red Riding-Hood and ate her up.</rdg>
+<rdg wit="#K">the wicked wolf pounced on Little Red Riding Hood and ate her up.</rdg>
+<rdg wit="#L">that wicked wolf leapt upon Little Red Riding Hood and ate her.</rdg>
+<rdg wit="#M">the wicked wolf pounced on Little Red Hood and ate her.</rdg>
+<rdg wit="#N">"the wicked Wolf flung himself on Little Red Riding-Hood, and ate her up."</rdg>
+<rdg wit="#O">that miscreant wolf threw himself at the little red tippet and ate her.</rdg>
+<rdg wit="#P">the wicked wolf threw himself on Little Red Riding Hood and gobbled her up.</rdg>
+<rdg wit="#Q">"that wicked Wolf threw himself on the little red hood, and ate her."</rdg>
+</app><app>
+<rdg wit="#A">Moralité</rdg>
+<lem>MORALITÉ</lem>
+<rdg wit="#C">The Moral</rdg>
+<rdg wit="#D">The Moral</rdg>
+<rdg wit="#E">"Mind this Tale,"</rdg>
+<rdg wit="#F">--</rdg>
+<rdg wit="#G">--</rdg>
+<rdg wit="#H">--</rdg>
+<rdg wit="#I">The Moral</rdg>
+<rdg wit="#J">Moral</rdg>
+<rdg wit="#K">MORAL</rdg>
+<rdg wit="#L">MORAL</rdg>
+<rdg wit="#M">Moral</rdg>
+<rdg wit="#N">The moral of this tale</rdg>
+<rdg wit="#O">Moral</rdg>
+<rdg wit="#P">Moral</rdg>
+<rdg wit="#Q">Moral</rdg>
+</app><app>
+<rdg wit="#A">Dans ce conte on peut voir qu’à de jeunes enfants</rdg>
+<lem>"On voit ici que de jeunes enfant,"</lem>
+<rdg wit="#C">From this short story easy we discern</rdg>
+<rdg wit="#D">From this short story easy we discern</rdg>
+<rdg wit="#E">pretty Ladies stil young & unacquainted with all the dangers of your age & sex.</rdg>
+<rdg wit="#F">--</rdg>
+<rdg wit="#G">--</rdg>
+<rdg wit="#H">--</rdg>
+<rdg wit="#I">From this short story easy we discern</rdg>
+<rdg wit="#J">"This story teaches that the very young,"</rdg>
+<rdg wit="#K">"One sees here that young children,"</rdg>
+<rdg wit="#L">"Young children, as we clearly see,"</rdg>
+<rdg wit="#M">"It is seen here that young children,"</rdg>
+<rdg wit="#N">"Young children, as this tale will show,"</rdg>
+<rdg wit="#O">"Here we see that children so young,"</rdg>
+<rdg wit="#P">"From this story one learns that children,"</rdg>
+<rdg wit="#Q">"One sees here that young children,"</rdg>
+</app><app>
+<rdg wit="#A">--</rdg>
+<lem>--</lem>
+<rdg wit="#C">What conduct all young people ought to learn.</rdg>
+<rdg wit="#D">What conduct all young people ought to learn.</rdg>
+<rdg wit="#E">Woolfs there are every where;</rdg>
+<rdg wit="#F">--</rdg>
+<rdg wit="#G">--</rdg>
+<rdg wit="#H">--</rdg>
+<rdg wit="#I">What conduct all young people ought to learn.</rdg>
+<rdg wit="#J">--</rdg>
+<rdg wit="#K">--</rdg>
+<rdg wit="#L">--</rdg>
+<rdg wit="#M">--</rdg>
+<rdg wit="#N">--</rdg>
+<rdg wit="#O">--</rdg>
+<rdg wit="#P">--</rdg>
+<rdg wit="#Q">--</rdg>
+</app><app>
+<rdg wit="#A">Et surtout à de jeunes filles</rdg>
+<lem>"Surtout de jeunes filles,"</lem>
+<rdg wit="#C">"But above all, the growing ladies fair,"</rdg>
+<rdg wit="#D">"But above all, young, growing misses fair,"</rdg>
+<rdg wit="#E">take heed how you listen to ‘em.</rdg>
+<rdg wit="#F">--</rdg>
+<rdg wit="#G">--</rdg>
+<rdg wit="#H">--</rdg>
+<rdg wit="#I">"But above all, young, growing misses fair,"</rdg>
+<rdg wit="#J">"And little girls more surely than the rest,"</rdg>
+<rdg wit="#K">"Especially pretty girls,"</rdg>
+<rdg wit="#L">"Pretty girls, especially,"</rdg>
+<rdg wit="#M">especially young girls</rdg>
+<rdg wit="#N">"And mainly pretty girls with charm,"</rdg>
+<rdg wit="#O">"Especially young girls,"</rdg>
+<rdg wit="#P">"Especially young girls,"</rdg>
+<rdg wit="#Q">"Especially young girls,"</rdg>
+</app><app>
+<rdg wit="#A">--</rdg>
+<lem>--</lem>
+<rdg wit="#C">Whose orient rosy blooms begin t’appear:</rdg>
+<rdg wit="#D">Whose orient rosy blooms begin t’appear:</rdg>
+<rdg wit="#E">--</rdg>
+<rdg wit="#F">--</rdg>
+<rdg wit="#G">--</rdg>
+<rdg wit="#H">--</rdg>
+<rdg wit="#I">Whose orient rosy blooms begin t'appear:</rdg>
+<rdg wit="#J">--</rdg>
+<rdg wit="#K">--</rdg>
+<rdg wit="#L">--</rdg>
+<rdg wit="#M">--</rdg>
+<rdg wit="#N">--</rdg>
+<rdg wit="#O">--</rdg>
+<rdg wit="#P">--</rdg>
+<rdg wit="#Q">--</rdg>
+</app><app>
+<rdg wit="#A">"Belles, bien faites et gentilles"</rdg>
+<lem>"Belles, bien faites, et gentilles,"</lem>
+<rdg wit="#C">"Who, Beauties in the fragrant spring of age!"</rdg>
+<rdg wit="#D">"Who, beauties in the fragrant springs of age,"</rdg>
+<rdg wit="#E">--</rdg>
+<rdg wit="#F">--</rdg>
+<rdg wit="#G">--</rdg>
+<rdg wit="#H">--</rdg>
+<rdg wit="#I">"Who, beauties in the fragrant spring of age,"</rdg>
+<rdg wit="#J">"- sweet, dainty things, clothed in their Sunday best -"</rdg>
+<rdg wit="#K">"Who're bred as pure as pearls,"</rdg>
+<rdg wit="#L">"Innocent of all life's dangers,"</rdg>
+<rdg wit="#M">"who are beautiful, shapely, and pretty,"</rdg>
+<rdg wit="#N">Do wrong and often come to harm</rdg>
+<rdg wit="#O">"Beautiful, striking pearls,"</rdg>
+<rdg wit="#P">"Pretty, well-bred, and genteel,"</rdg>
+<rdg wit="#Q">"Beautiful, well shaped, and nice,"</rdg>
+</app><app>
+<rdg wit="#A">--</rdg>
+<lem>--</lem>
+<rdg wit="#C">With pretty airs young hearts are apt t’engage.</rdg>
+<rdg wit="#D">With pretty airs young hearts are apt t’engage.</rdg>
+<rdg wit="#E">--</rdg>
+<rdg wit="#F">--</rdg>
+<rdg wit="#G">--</rdg>
+<rdg wit="#H">--</rdg>
+<rdg wit="#I">With pretty airs young hearts are apt t'engage.</rdg>
+<rdg wit="#J">--</rdg>
+<rdg wit="#K">--</rdg>
+<rdg wit="#L">--</rdg>
+<rdg wit="#M">--</rdg>
+<rdg wit="#N">In letting those they do not know</rdg>
+<rdg wit="#O">--</rdg>
+<rdg wit="#P">--</rdg>
+<rdg wit="#Q">--</rdg>
+</app><app>
+<rdg wit="#A">Il prend mal d’écouter toutes sortes de gens</rdg>
+<lem>"Font très mal d'écouter toute sorte de gens,"</lem>
+<rdg wit="#C">"Ill do they listen to all sorts of tongues,"</rdg>
+<rdg wit="#D">"Ill do they listen to all sorts of tongues,"</rdg>
+<rdg wit="#E">--</rdg>
+<rdg wit="#F">--</rdg>
+<rdg wit="#G">--</rdg>
+<rdg wit="#H">--</rdg>
+<rdg wit="#I">"Ill do they listen to all sorts of tongues,"</rdg>
+<rdg wit="#J">Should never trust a stranger's artful tongue.</rdg>
+<rdg wit="#K">Should question words addressed by men.</rdg>
+<rdg wit="#L">Shouldn't stop and chat with strangers.</rdg>
+<rdg wit="#M">"are in the wrong when they listen to just anybody,"</rdg>
+<rdg wit="#N">Stay talking to them when they meet.</rdg>
+<rdg wit="#O">Fare very badly when they listen to just anyone.</rdg>
+<rdg wit="#P">"Are wrong to listen to just anyone,"</rdg>
+<rdg wit="#Q">"Are very wrong to listen to all manner of people,"</rdg>
+</app><app>
+<rdg wit="#A">--</rdg>
+<lem>--</lem>
+<rdg wit="#C">Since some enchant and lure like Syrens songs.</rdg>
+<rdg wit="#D">Since some inchant and lure like Syrens songs.</rdg>
+<rdg wit="#E">--</rdg>
+<rdg wit="#F">--</rdg>
+<rdg wit="#G">--</rdg>
+<rdg wit="#H">--</rdg>
+<rdg wit="#I">Since some inchant and lure like Syrens' songs.</rdg>
+<rdg wit="#J">--</rdg>
+<rdg wit="#K">--</rdg>
+<rdg wit="#L">--</rdg>
+<rdg wit="#M">--</rdg>
+<rdg wit="#N">"And if they don’t do as they ought,"</rdg>
+<rdg wit="#O">--</rdg>
+<rdg wit="#P">--</rdg>
+<rdg wit="#Q">--</rdg>
+</app><app>
+<rdg wit="#A">Et que ce n’est pas chose étrange</rdg>
+<lem>"Et que ce n'est pas chose étrange,"</lem>
+<rdg wit="#C">"No wonder therefore 'tis if over-power'd,"</rdg>
+<rdg wit="#D">"No wonder therefore 'tis if over-power'd,"</rdg>
+<rdg wit="#E">--</rdg>
+<rdg wit="#F">--</rdg>
+<rdg wit="#G">--</rdg>
+<rdg wit="#H">--</rdg>
+<rdg wit="#I">"No wonder therefore 'tis, if over-power'd,"</rdg>
+<rdg wit="#J">Small wonder if these guileless young beginners</rdg>
+<rdg wit="#K">Or they may serve one day as feast</rdg>
+<rdg wit="#L">"If this simple advice beats them,"</rdg>
+<rdg wit="#M">and that it is not strange</rdg>
+<rdg wit="#N">It’s no surprise that some are caught</rdg>
+<rdg wit="#O">And that it’s no surprise</rdg>
+<rdg wit="#P">"And it's not at all strange,"</rdg>
+<rdg wit="#Q">"And that it’s not a strange thing,"</rdg>
+</app><app>
+<rdg wit="#A">S’il en est tant que le Loup mange</rdg>
+<lem>S'il en est tant que le loup mange.</lem>
+<rdg wit="#C">So many of them has the Wolfe devour'd.</rdg>
+<rdg wit="#D">So many of them has the Wolf devour'd.</rdg>
+<rdg wit="#E">--</rdg>
+<rdg wit="#F">--</rdg>
+<rdg wit="#G">--</rdg>
+<rdg wit="#H">--</rdg>
+<rdg wit="#I">So many of them has the Wolf devour'd.</rdg>
+<rdg wit="#J">Provide the wolf with some of his best dinners.é</rdg>
+<rdg wit="#K">For a wolf or other beast.</rdg>
+<rdg wit="#L">It's no surprise if a wolf eats them.</rdg>
+<rdg wit="#M">if so many are eaten by the wolf.</rdg>
+<rdg wit="#N">By wolves who take them off to eat.</rdg>
+<rdg wit="#O">If the wolf takes many a prize.</rdg>
+<rdg wit="#P">If a wolf ends up eating them.</rdg>
+<rdg wit="#Q">If there are so many the wolf eats.</rdg>
+</app><app>
+<rdg wit="#A">*on prononce ces mots d’une voix forte pour faire peur à l’enfant comme si le loup l’allait manger.</rdg>
+<lem>"Je dis le loup, car tous les loups ;"</lem>
+<rdg wit="#C">"The Wolfe, I say, for Wolves too sure there are"</rdg>
+<rdg wit="#D">"The Wolf, I say, for Wolves too sure there are"</rdg>
+<rdg wit="#E">--</rdg>
+<rdg wit="#F">--</rdg>
+<rdg wit="#G">--</rdg>
+<rdg wit="#H">--</rdg>
+<rdg wit="#I">"The Wolf, I say, for Wolves too sure there are"</rdg>
+<rdg wit="#J">"I say the wolf, for every wolf that roams"</rdg>
+<rdg wit="#K">I say a wolf since not all are wild</rdg>
+<rdg wit="#L">"And this warning take, I beg:"</rdg>
+<rdg wit="#M">"I say ""the wolf, "" because not all wolves"</rdg>
+<rdg wit="#N">"I call them wolves, but you will find"</rdg>
+<rdg wit="#O">I say the wolf because</rdg>
+<rdg wit="#P">"I say a wolf, but not all wolves"</rdg>
+<rdg wit="#Q">"I say the wolf, for all wolves"</rdg>
+</app><app>
+<rdg wit="#A">--</rdg>
+<lem>Ne sont pas de la même sorte ;</lem>
+<rdg wit="#C">"Of every sort, and every character."</rdg>
+<rdg wit="#D">"Of every sort, and every character."</rdg>
+<rdg wit="#E">--</rdg>
+<rdg wit="#F">--</rdg>
+<rdg wit="#G">--</rdg>
+<rdg wit="#H">--</rdg>
+<rdg wit="#I">"Of every sort, and every character."</rdg>
+<rdg wit="#J">Is not the same.</rdg>
+<rdg wit="#K">Or are indeed the same in kind.</rdg>
+<rdg wit="#L">Not every wolf runs on four legs.</rdg>
+<rdg wit="#M">are of the same type;</rdg>
+<rdg wit="#N">"That some are not the savage kind,"</rdg>
+<rdg wit="#O">not all wolves are the same.</rdg>
+<rdg wit="#P">Are exactly the same.</rdg>
+<rdg wit="#Q">Are not of the same sort;</rdg>
+</app><app>
+<rdg wit="#A">--</rdg>
+<lem>"Il en est d'une humeur accorte,"</lem>
+<rdg wit="#C">"Some of them mild and gentle-humour'd be,"</rdg>
+<rdg wit="#D">"Some of them mild and gentle humour'd be,"</rdg>
+<rdg wit="#E">--</rdg>
+<rdg wit="#F">--</rdg>
+<rdg wit="#G">--</rdg>
+<rdg wit="#H">--</rdg>
+<rdg wit="#I">"Some of them mild and gentle-humour'd be,"</rdg>
+<rdg wit="#J">"Some, in appearance tame,"</rdg>
+<rdg wit="#K">For some are winning and have sharp minds.</rdg>
+<rdg wit="#L">The smooth tongue of a smooth-skinned creature</rdg>
+<rdg wit="#M">"there are some with affable manners,"</rdg>
+<rdg wit="#N">"Not howling, ravening or raging;"</rdg>
+<rdg wit="#O">"There are those of courteous fame,"</rdg>
+<rdg wit="#P">"Some are perfectly charming,"</rdg>
+<rdg wit="#Q">"There are some of an affable disposition,"</rdg>
+</app><app>
+<rdg wit="#A">--</rdg>
+<lem>"Sans bruit, sans fiel et sans courroux,"</lem>
+<rdg wit="#C">"Of noise and gall, and rancour wholly free;"</rdg>
+<rdg wit="#D">"Of noise and gall, and rancour wholly free;"</rdg>
+<rdg wit="#E">--</rdg>
+<rdg wit="#F">--</rdg>
+<rdg wit="#G">--</rdg>
+<rdg wit="#H">--</rdg>
+<rdg wit="#I">"Of noise and gall, and rancour wholly free;"</rdg>
+<rdg wit="#J">"Gentle, well-mannered, affable and gay,"</rdg>
+<rdg wit="#K">"Some are loud, smooth, or mild."</rdg>
+<rdg wit="#L">May mask a rough and wolfish nature.</rdg>
+<rdg wit="#M">"quiet, free of spite and anger,"</rdg>
+<rdg wit="#N">"Their manners seem, instead, engaging,"</rdg>
+<rdg wit="#O">"No noise or bile or rage,"</rdg>
+<rdg wit="#P">"Not loud, brutal, or angry,"</rdg>
+<rdg wit="#Q">"Without clamor, without bile, without anger,"</rdg>
+</app><app>
+<rdg wit="#A">--</rdg>
+<lem>"Qui privés, complaisants et doux"</lem>
+<rdg wit="#C">"Who tame, familiar, full of complaisance"</rdg>
+<rdg wit="#D">"Who tame, familiar, full of complaisance"</rdg>
+<rdg wit="#E">--</rdg>
+<rdg wit="#F">--</rdg>
+<rdg wit="#G">--</rdg>
+<rdg wit="#H">--</rdg>
+<rdg wit="#I">"Who tame, familiar, full of complaisance"</rdg>
+<rdg wit="#J">"Trotting beside them in the friendliest way,"</rdg>
+<rdg wit="#K">Others appear plain kind or unriled.</rdg>
+<rdg wit="#L">--</rdg>
+<rdg wit="#M">"who, tame, obliging, and gentle,"</rdg>
+<rdg wit="#N">They’re softly-spoken and discreet.</rdg>
+<rdg wit="#O">"But reserved, compliant, and sage,"</rdg>
+<rdg wit="#P">"But tame, pleasant and gentle,"</rdg>
+<rdg wit="#Q">"Who, overly friendly, obliging and gentle,"</rdg>
+</app><app>
+<rdg wit="#A">--</rdg>
+<lem>--</lem>
+<rdg wit="#C">"Ogle and leer, languish, cajole and glance;"</rdg>
+<rdg wit="#D">"Ogle and leer, languish, cajole and glance;"</rdg>
+<rdg wit="#E">--</rdg>
+<rdg wit="#F">--</rdg>
+<rdg wit="#G">--</rdg>
+<rdg wit="#H">--</rdg>
+<rdg wit="#I">"languish, Ogle and leer, cajole and glance;"</rdg>
+<rdg wit="#J">--</rdg>
+<rdg wit="#K">--</rdg>
+<rdg wit="#L">--</rdg>
+<rdg wit="#M">--</rdg>
+<rdg wit="#N">--</rdg>
+<rdg wit="#O">--</rdg>
+<rdg wit="#P">--</rdg>
+<rdg wit="#Q">--</rdg>
+</app><app>
+<rdg wit="#A">--</rdg>
+<lem>--</lem>
+<rdg wit="#C">"With luring tongues, and language wondrous sweet,"</rdg>
+<rdg wit="#D">"With luring tongues, and language wond'rous sweet,"</rdg>
+<rdg wit="#E">--</rdg>
+<rdg wit="#F">--</rdg>
+<rdg wit="#G">--</rdg>
+<rdg wit="#H">--</rdg>
+<rdg wit="#I">"With luring tongues, and language wond'rous sweet,"</rdg>
+<rdg wit="#J">--</rdg>
+<rdg wit="#K">--</rdg>
+<rdg wit="#L">--</rdg>
+<rdg wit="#M">--</rdg>
+<rdg wit="#N">Young ladies whom they talk to on the street</rdg>
+<rdg wit="#O">--</rdg>
+<rdg wit="#P">--</rdg>
+<rdg wit="#Q">--</rdg>
+</app><app>
+<rdg wit="#A">--</rdg>
+<lem>"Suiv[e]nt les jeunes Demoiselles,"</lem>
+<rdg wit="#C">"Follow young ladies as they walk the street,"</rdg>
+<rdg wit="#D">"Follow young ladies as they walk the street,"</rdg>
+<rdg wit="#E">--</rdg>
+<rdg wit="#F">--</rdg>
+<rdg wit="#G">--</rdg>
+<rdg wit="#H">--</rdg>
+<rdg wit="#I">"Follow young ladies as they walk the street,"</rdg>
+<rdg wit="#J">Follow young ladies </rdg>
+<rdg wit="#K">"They follow young ladies wherever they go,"</rdg>
+<rdg wit="#L">--</rdg>
+<rdg wit="#M">follow young ladies</rdg>
+<rdg wit="#N">"They follow to their homes and through the hall,"</rdg>
+<rdg wit="#O">Who will trail a girl well bred</rdg>
+<rdg wit="#P">Following young ladies</rdg>
+<rdg wit="#Q">Follow young Ladies</rdg>
+</app><app>
+<rdg wit="#A">--</rdg>
+<lem>"Jusque dans les maisons, jusque dans les ruelles ;"</lem>
+<rdg wit="#C">"Ev'n to their very houses and bedside,"</rdg>
+<rdg wit="#D">"Ev'n to their very houses, nay, be[d]side,"</rdg>
+<rdg wit="#E">--</rdg>
+<rdg wit="#F">--</rdg>
+<rdg wit="#G">--</rdg>
+<rdg wit="#H">--</rdg>
+<rdg wit="#I">"Ev'n to their very houses, nay, bedside,"</rdg>
+<rdg wit="#J">right into their homes.</rdg>
+<rdg wit="#K">Right into the halls of their very own homes.</rdg>
+<rdg wit="#L">--</rdg>
+<rdg wit="#M">"even into their homes, even into their alcoves;"</rdg>
+<rdg wit="#N">And upstairs to their rooms;</rdg>
+<rdg wit="#O">"All the way home, into her bed."</rdg>
+<rdg wit="#P">"Right into their homes, into their chambers,"</rdg>
+<rdg wit="#Q">"Right into their homes, right to their bedsides;"</rdg>
+</app><app>
+<rdg wit="#A">--</rdg>
+<lem>--</lem>
+<rdg wit="#C">"And though their true designs they artful hide,"</rdg>
+<rdg wit="#D">"And, artful, tho' their true designs they hide:"</rdg>
+<rdg wit="#E">--</rdg>
+<rdg wit="#F">--</rdg>
+<rdg wit="#G">--</rdg>
+<rdg wit="#H">--</rdg>
+<rdg wit="#I">"And, artful, tho' their true designs they hide;"</rdg>
+<rdg wit="#J">--</rdg>
+<rdg wit="#K">--</rdg>
+<rdg wit="#L">--</rdg>
+<rdg wit="#M">--</rdg>
+<rdg wit="#N">when they’re there</rdg>
+<rdg wit="#O">--</rdg>
+<rdg wit="#P">--</rdg>
+<rdg wit="#Q">--</rdg>
+</app><app>
+<rdg wit="#A">--</rdg>
+<lem>"Mais hélas ! qui ne sait que ces Loups doucereux,"</lem>
+<rdg wit="#C">"Yet ah! these simpering Wolves, who does not see"</rdg>
+<rdg wit="#D">Yet ah! these simpering Wolves who does not see</rdg>
+<rdg wit="#E">--</rdg>
+<rdg wit="#F">--</rdg>
+<rdg wit="#G">--</rdg>
+<rdg wit="#H">--</rdg>
+<rdg wit="#I">Yet ah! these simpering Wolves! Who does not see</rdg>
+<rdg wit="#J">"Alas, how many to their cost do find"</rdg>
+<rdg wit="#K">Alas for those girls who've refused the truth:</rdg>
+<rdg wit="#L">"These quiet types, for all their charm,"</rdg>
+<rdg wit="#M">but alas! everyone knows that these soft-spoken wolves</rdg>
+<rdg wit="#N">They’re not as friendly as they might appear:</rdg>
+<rdg wit="#O">"Ah! But as everyone knows, it’s the saccharine tongues,"</rdg>
+<rdg wit="#P">But watch out if you haven’t learned that tame wolves</rdg>
+<rdg wit="#Q">"But alas! Who doesn’t know that these sweet-talking Wolves,"</rdg>
+</app><app>
+<rdg wit="#A">--</rdg>
+<lem>De tous les Loups sont les plus dangereux.</lem>
+<rdg wit="#C">Most dang’rous of all Wolves in fact to be?</rdg>
+<rdg wit="#D">Most dang’rous of all Wolves in fact to be.</rdg>
+<rdg wit="#E">--</rdg>
+<rdg wit="#F">--</rdg>
+<rdg wit="#G">--</rdg>
+<rdg wit="#H">--</rdg>
+<rdg wit="#I">Most dangerous of Wolves indeed they be?</rdg>
+<rdg wit="#J">These plausible wolves are the most dangerous kind.</rdg>
+<rdg wit="#K">The sweetest tongue has the sharpest tooth.</rdg>
+<rdg wit="#L">Can be the cause of the worse harm.</rdg>
+<rdg wit="#M">are the most dangerous wolves of all.</rdg>
+<rdg wit="#N">These are the most dangerous wolves of all.</rdg>
+<rdg wit="#O">"Of all the wolves, who are the most dangerous ones."</rdg>
+<rdg wit="#P">Are the most dangerous of all.</rdg>
+<rdg wit="#Q">Of all the Wolves are the most dangerous.</rdg> </p>
+
+            </div>
+        </body>
+    </text>
+</TEI>
